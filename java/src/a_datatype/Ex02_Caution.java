@@ -4,7 +4,7 @@ public class Ex02_Caution {
     public static void main(String[] args) {
         // 실수형
 //        float f;    // 4 byte
-//        f = 3.6F;    // 자바는 기본적으로 8 byte를 잡는다. 그래서 문제가 생김. F를 붙여서 4bype로 잡으라고 하던가 > 노추천
+//        f = 3.6F;    // 자바는 기본적으로 8 byte를 잡는다. 그래서 문제가 생김. F를 붙여서 4bype로 잡을 수 있음 > 노추천
         double f;
         f = 3.6;
         System.out.println("실수:" + f);

@@ -1,11 +1,15 @@
-package a_datatype;
+package _daily_workout;
+
+/**-----------------------------------------------------
+ * 숫자를 3개 받아서 그 중에 2번째로 큰 수를 출력하자
+ -----------------------------------------------------*/
 
 import java.util.ArrayList;
-import java.util.Scanner;
-import java.util.List;
 import java.util.Collections;
+import java.util.List;
+import java.util.Scanner;
 
-public class Hw_190415 {
+public class Ex_190415 {
     public static void main(String[] args) {    // 숫자 3개 받기
         Scanner input = new Scanner(System.in);
         System.out.print("1번 숫자=>");
