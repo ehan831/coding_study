@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2df9755-e8a3-484a-89e3-7509a0ce6dbe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_datatype/Ex01_Naming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_datatype/Ex01_Naming.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_datatype/Ex02_Caution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_datatype/Ex02_Caution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_datatype/Hw_190415.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_daily_workout/Ex_190415.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/c_control/Ex07_중첩for.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/c_control/Ex07_중첩for.java" afterDir="false" />
-    </list>
+    <list default="true" id="e2df9755-e8a3-484a-89e3-7509a0ce6dbe" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/a_datatype/Ex01_Naming.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+            <state relative-caret-position="436">
+              <caret line="39" column="3" lean-forward="true" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -151,6 +145,11 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="c_control" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -161,7 +160,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555490138319" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555490999020" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Problems" />
@@ -213,16 +212,15 @@
       <updated>1555488481760</updated>
       <workItem from="1555488485677" duration="77000" />
       <workItem from="1555488625872" duration="97000" />
-      <workItem from="1555488803468" duration="1223000" />
+      <workItem from="1555488803468" duration="1857000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1397000" />
+    <option name="totallyTimeSpent" value="2031000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="964" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -310,8 +308,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/a_datatype/Ex01_Naming.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        <state relative-caret-position="436">
+          <caret line="39" column="3" lean-forward="true" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
         </state>
       </provider>
     </entry>
