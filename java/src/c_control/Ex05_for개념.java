@@ -37,7 +37,7 @@ public class Ex05_for개념 {
 //    }
 //}
 
-//    //다른 방법으로 해보기
+/** 다른 방법으로 해보기 */
 //    public static void main(String[] args) {
 //        int sum_odd = 0, sum_even = 0;
 //        for (int i = 1; i <= 100; i+=2) {
@@ -49,7 +49,7 @@ public class Ex05_for개념 {
 //    }
 //}
 
-    // 대문자 A ~ Z 출력해보기
+/** 대문자 A ~ Z 출력해보기 */
 //    public static void main(String[] args) {
 //        for(char c='A'; c<='Z'; c++) {
 //            System.out.println(c);
@@ -57,19 +57,20 @@ public class Ex05_for개념 {
 //    }
 //}
 
-    // 역순으로
+/** 역순으로 */
 //    public static void main(String[] args) {
 //        for(char c='Z'; c>='A'; c-=1) {
 //            System.out.println(c);
 //        }
 //    }
 //}
-//
-// 1 2 3 4 5
-// 6 7 8 9 10
-// 11 12 13 14 15
-// 로 출력해보자
-//
+
+/**-----------------------------------------------------
+ 1 2 3 4 5
+ 6 7 8 9 10
+ 11 12 13 14 15
+ 로 출력해보자
+-----------------------------------------------------*/
 //    public static void main(String[] args) {
 //        for(int i = 1; i <= 15; i++) {
 //            System.out.print(i + " ");
