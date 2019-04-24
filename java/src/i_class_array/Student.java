@@ -51,16 +51,17 @@
 //    }
 //}
 
-package c_array;
+package i_class_array;
 
 public class Student {
 
+    // 멤버 변수 (member field)
     private String name;
     private int kor, eng, math;
     private int total = cal_Total();
     private double avg = cal_Average();
 
-
+    // 멤버 메소드
     public int cal_Total() {
         total = kor + eng + math;
         return total;

@@ -1,4 +1,4 @@
-package c_array;
+package i_class_array;
 
 import java.util.Scanner;
 

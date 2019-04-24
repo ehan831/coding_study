@@ -1,4 +1,4 @@
-package b_capsulation;
+package h_capsulation;
 
 // 서로 다른 자료형의 변수들 + 메소드들
 /**

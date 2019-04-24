@@ -2,37 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a29e278-4c57-4a13-95fc-5c4f544d1ad6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/artifacts/daily_workout_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/artifacts/java_war_exploded2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP/OOP.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP/src/a_basic/Ex01_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h_capsulation/Ex01_Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP/src/a_basic/Ex01_Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h_capsulation/Ex01_Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP/src/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP/web/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP/web/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../daily_workout/java/java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../daily_workout/java/web/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/java_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/artifacts/java_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_daily_workout/Ex_190415.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_daily_workout/Ex_190415.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_daily_workout/Ex_190417.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_daily_workout/Ex_190417.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_daily_workout/Ex_190418.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_daily_workout/Ex_190418.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_daily_workout/Ex_190419.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_daily_workout/Ex_190419.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_daily_workout/Ex_190422.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_daily_workout/Ex_190422.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_daily_workout/Ex_190423.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_daily_workout/Ex_190423.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/c_control/Ex05_for개념.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/c_control/Ex05_for개념.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/c_control/Ex08_While개념.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/c_control/Ex08_While개념.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/c_control/Ex09_While연습.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/c_control/Ex09_While연습.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javabasic/javabasic/.idea/artifacts/OOP_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javabasic/javabasic/.idea/artifacts/OOP_war_exploded2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javabasic/javabasic/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javabasic/javabasic/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javabasic/javabasic/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javabasic/javabasic/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javabasic/javabasic/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javabasic/javabasic/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h_capsulation/Ex01_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h_capsulation/Ex01_Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h_capsulation/Ex01_Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h_capsulation/Ex01_Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/i_class_array/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/i_class_array/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/i_class_array/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/i_class_array/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/i_class_array/초기화.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/i_class_array/초기화.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,17 +17,60 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/i_class_array/초기화.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/j_constructor/Ex01_Main.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="289">
+                  <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/j_constructor/Ex01_Student.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="306">
+                  <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+                  <folding>
+                    <element signature="e#984#985#0" expanded="true" />
+                    <element signature="e#1011#1012#0" expanded="true" />
+                    <element signature="e#1051#1052#0" expanded="true" />
+                    <element signature="e#1083#1084#0" expanded="true" />
+                    <element signature="e#1110#1111#0" expanded="true" />
+                    <element signature="e#1136#1137#0" expanded="true" />
+                    <element signature="e#1171#1172#0" expanded="true" />
+                    <element signature="e#1201#1202#0" expanded="true" />
+                    <element signature="e#1228#1229#0" expanded="true" />
+                    <element signature="e#1254#1255#0" expanded="true" />
+                    <element signature="e#1289#1290#0" expanded="true" />
+                    <element signature="e#1319#1320#0" expanded="true" />
+                    <element signature="e#1347#1348#0" expanded="true" />
+                    <element signature="e#1374#1375#0" expanded="true" />
+                    <element signature="e#1411#1412#0" expanded="true" />
+                    <element signature="e#1443#1444#0" expanded="true" />
+                    <element signature="e#1472#1473#0" expanded="true" />
+                    <element signature="e#1500#1501#0" expanded="true" />
+                    <element signature="e#1539#1540#0" expanded="true" />
+                    <element signature="e#1573#1574#0" expanded="true" />
+                    <element signature="e#1603#1604#0" expanded="true" />
+                    <element signature="e#1629#1630#0" expanded="true" />
+                    <element signature="e#1667#1668#0" expanded="true" />
+                    <element signature="e#1697#1698#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -63,6 +81,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/i_class_array/초기화.java" />
+        <option value="$PROJECT_DIR$/src/h_capsulation/Ex01_Main.java" />
+        <option value="$PROJECT_DIR$/src/h_capsulation/Ex01_Student.java" />
+        <option value="$PROJECT_DIR$/src/i_class_array/Main.java" />
+        <option value="$PROJECT_DIR$/src/i_class_array/Student.java" />
+        <option value="$PROJECT_DIR$/src/j_constructor/Ex01_Student.java" />
+        <option value="$PROJECT_DIR$/src/j_constructor/Ex01_Main.java" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="30" />
@@ -94,6 +125,12 @@
               <item name="java" type="b2602c69:ProjectViewProjectNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="h_capsulation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="i_class_array" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -111,7 +148,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556073564947" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556076074649" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -131,6 +168,26 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Ex01_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j_constructor.Ex01_Main" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="j_constructor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex01_Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -141,15 +198,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556073028544</updated>
-      <workItem from="1556073030563" duration="534000" />
+      <workItem from="1556073030563" duration="3022000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="534000" />
+    <option name="totallyTimeSpent" value="3022000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="30" width="1680" height="971" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -157,17 +215,18 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Capture Tool" />
       <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13186814" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32992035" />
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24573378" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -198,8 +257,83 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/i_class_array/초기화.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h_capsulation/Ex01_Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h_capsulation/Ex01_Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/g_exception/Ex04_Throw.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/i_class_array/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/i_class_array/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="69" column="13" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/j_constructor/Ex01_Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#984#985#0" expanded="true" />
+            <element signature="e#1011#1012#0" expanded="true" />
+            <element signature="e#1051#1052#0" expanded="true" />
+            <element signature="e#1083#1084#0" expanded="true" />
+            <element signature="e#1110#1111#0" expanded="true" />
+            <element signature="e#1136#1137#0" expanded="true" />
+            <element signature="e#1171#1172#0" expanded="true" />
+            <element signature="e#1201#1202#0" expanded="true" />
+            <element signature="e#1228#1229#0" expanded="true" />
+            <element signature="e#1254#1255#0" expanded="true" />
+            <element signature="e#1289#1290#0" expanded="true" />
+            <element signature="e#1319#1320#0" expanded="true" />
+            <element signature="e#1347#1348#0" expanded="true" />
+            <element signature="e#1374#1375#0" expanded="true" />
+            <element signature="e#1411#1412#0" expanded="true" />
+            <element signature="e#1443#1444#0" expanded="true" />
+            <element signature="e#1472#1473#0" expanded="true" />
+            <element signature="e#1500#1501#0" expanded="true" />
+            <element signature="e#1539#1540#0" expanded="true" />
+            <element signature="e#1573#1574#0" expanded="true" />
+            <element signature="e#1603#1604#0" expanded="true" />
+            <element signature="e#1629#1630#0" expanded="true" />
+            <element signature="e#1667#1668#0" expanded="true" />
+            <element signature="e#1697#1698#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/j_constructor/Ex01_Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
         </state>
       </provider>
     </entry>
