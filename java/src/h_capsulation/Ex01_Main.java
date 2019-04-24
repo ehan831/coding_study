@@ -1,4 +1,4 @@
-package a_basic;
+package b_capsulation;
 
 public class Ex01_Main {
     public static void main(String[] args) {

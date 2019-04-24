@@ -1,7 +1,13 @@
-package a_basic;
+package b_capsulation;
 
 // 서로 다른 자료형의 변수들 + 메소드들
+/**
+ 캡슐화 - 서로 다른 권한을 부여하는 것
+    1. 멤버변수 - private
+    2. 멤버메소드 - public
 
+
+ */
 public class Ex01_Student {
     String name;
     int kor, eng, math;

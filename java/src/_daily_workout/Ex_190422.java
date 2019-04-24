@@ -1,8 +1,4 @@
-package _daily_workout;
-
 import java.util.*;
-
-import static jdk.nashorn.internal.objects.NativeMath.max;
 
 //public class Ex_190422 {
 //    public static void main(String[] args) {

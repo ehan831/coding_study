@@ -1,7 +1,3 @@
-package _daily_workout;
-
-import java.util.Calendar;
-
 import static sun.swing.MenuItemLayoutHelper.max;
 
 public class Ex_190419 {

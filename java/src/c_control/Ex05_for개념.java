@@ -1,7 +1,5 @@
 package c_control;
 
-import java.util.Scanner;
-
 /**
  * for( 초기값; 조건문; 증가식)
  * {

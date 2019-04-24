@@ -1,5 +1,3 @@
-package _daily_workout;
-
 public class Ex_190423 {
     public static void main(String[] args) {
         int n = 4;

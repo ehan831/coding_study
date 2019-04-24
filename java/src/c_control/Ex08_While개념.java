@@ -1,6 +1,5 @@
 package c_control;
 
-import java.util.Scanner;
 import java.util.StringTokenizer;
 
 public class Ex08_While개념 {

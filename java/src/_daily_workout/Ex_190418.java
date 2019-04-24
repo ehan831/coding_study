@@ -1,5 +1,3 @@
-package _daily_workout;
-
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
