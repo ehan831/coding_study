@@ -12,7 +12,9 @@ package c_control;
 //    }
 //}
 
-/**break END*/
+/**
+ * break END continue
+ */
 //public class Ex11_Break_Continue {
 //    public static void main(String[] args) {
 //        END:
@@ -45,12 +47,12 @@ package c_control;
 public class Ex11_Break_Continue {
     public static void main(String[] args) {
         END:
-        for(int i=0; i<2; i++) {
-            for(int j=0; j<3; j++) {
-                if(j==1) continue END;
-                System.out.println("<" + i + "," +j + ">");
+        for (int i = 0; i < 2; i++) {
+            for (int j = 0; j < 3; j++) {
+                if (j == 1) continue END;
+                System.out.println( "<" + i + "," + j + ">" );
             }
-            System.out.println("데이타");
+            System.out.println( "데이타" );
         }
     }
 }

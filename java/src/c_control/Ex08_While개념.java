@@ -49,9 +49,9 @@ public class Ex08_While개념 {
 
         /**  */
         String str = "100*3+4/2-5";
-        StringTokenizer st =  new StringTokenizer(str, "+-*/%");
-        while(st.hasMoreTokens()) {
-            System.out.println(st.nextToken());
+        StringTokenizer st = new StringTokenizer( str, "+-*/%" );
+        while (st.hasMoreTokens( )) {
+            System.out.println( st.nextToken( ) );
         }
     }
 }

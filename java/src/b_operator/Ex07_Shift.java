@@ -9,12 +9,12 @@ package b_operator;
 public class Ex07_Shift {
     public static void main(String[] args) {
         int a = 4;
-        System.out.println(a>>2);
-        System.out.println(a>>>2);
-        System.out.println(a<<3);
+        System.out.println( a >> 2 );
+        System.out.println( a >>> 2 );
+        System.out.println( a << 3 );
 
         int b = -8;
-        System.out.println(b>>3);
-        System.out.println(b<<2);    // 음수도 기호 유지됨
+        System.out.println( b >> 3 );
+        System.out.println( b << 2 );    // 음수도 기호 유지됨
     }
 }

@@ -46,21 +46,21 @@ public class Ex01_Score {
     public static void main(String[] args) {
 
         int[] score = new int[5];
-        Scanner input = new Scanner(System.in);
+        Scanner input = new Scanner( System.in );
 
-        System.out.println("점수를 입력해주세요 ex. 99 88 77" );
-        String scores = input.nextLine();
+        System.out.println( "점수를 입력해주세요 ex. 99 88 77" );
+        String scores = input.nextLine( );
         StringTokenizer st = new StringTokenizer( scores );
 
-        for(int i=0; st.hasMoreTokens(); i++) {
-            score[i] = Integer.parseInt(st.nextToken());
+        for (int i = 0; st.hasMoreTokens( ); i++) {
+            score[i] = Integer.parseInt( st.nextToken( ) );
         }
 
         // 총점 구하기
-        int total =0;
-        for(int i=0; i<5; i++) {
+        int total = 0;
+        for (int i = 0; i < 5; i++) {
             total += score[i];
         }
-        System.out.println(total/score.length);
+        System.out.println( total / score.length );
     }
 }

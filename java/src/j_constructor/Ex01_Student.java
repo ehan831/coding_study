@@ -11,10 +11,14 @@ public class Ex01_Student {
     // public Student(){}
 
     public Ex01_Student() {
-        this.name="익명";
-        this.kor=50;
-        this.eng=50;
-        this.math=50;
+        // this: 멤버를 지칭하기 위한 레퍼런스
+        // this(): 다른 생성자 함수를 호출, 반드시 첫 줄에 기술!! 생성자 함수만 쓸 수 있음.
+        this("익명", 50, 50, 50);
+//        this.name="익명";
+//        this.kor=50;
+//        this.eng=50;
+//        this.math=50;
+        System.out.println("** 기본 생성자 호출 **");
     }
 
     // 생성자 - 멤버변수 초기화
@@ -25,14 +29,15 @@ public class Ex01_Student {
         this.kor = kor;
         this.eng = eng;
         this.math = math;
+        System.out.println("** 인자있는 생성자 호출 **");
     }
 
     // 멤버 메소드
-    int cal_Total() {
+    public int cal_Total() {
         total = kor+eng+math;
         return total;
     }
-    double cal_Average() {
+    public double cal_Average() {
         avg=(double)total/3;
         return avg;
     }

@@ -9,17 +9,17 @@ public class Ex03_Declaration {
         // 2. 초기화 = 변수 선언 + 값 지정(대입)
         int eng = 33;
 
-        if(kor == eng) {
-            System.out.println("같다");
-        }else {
-            System.out.println("다르다");
+        if (kor == eng) {
+            System.out.println( "같다" );
+        } else {
+            System.out.println( "다르다" );
         }
 
         // swap
         int temp = kor;
         kor = eng;
         eng = temp;
-        System.out.println("국어: "+ kor + ",영어: " + eng);
-        System.out.printf("국어: %d, 영어: %d", kor, eng);
+        System.out.println( "국어: " + kor + ",영어: " + eng );
+        System.out.printf( "국어: %d, 영어: %d", kor, eng );
     }
 }

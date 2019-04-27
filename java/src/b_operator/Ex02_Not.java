@@ -1,18 +1,18 @@
 package b_operator;
 
 /**
-*not : 결과를 반대로 하는 연산자
-*    - 일반논리(true/false): !
-*    - 이진논리(비트의 값: 0,1): ~
-*/
+ * not : 결과를 반대로 하는 연산자
+ * - 일반논리(true/false): !
+ * - 이진논리(비트의 값: 0,1): ~
+ */
 
 public class Ex02_Not {
     public static void main(String[] args) {
-        boolean result = 3>4;
-        System.out.println(result);
-        System.out.println(!result);
+        boolean result = 3 > 4;
+        System.out.println( result );
+        System.out.println( !result );
 
         int a = 15;
-        System.out.println(~a);    // 맨 앞의 부호 비트가 바뀌여서 -가 된다. 개념만 알아놓기.
+        System.out.println( ~a );    // 맨 앞의 부호 비트가 바뀌여서 -가 된다. 개념만 알아놓기.
     }
 }

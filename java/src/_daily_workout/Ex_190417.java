@@ -1,39 +1,42 @@
-/**-----------------------------------------------------
- [ 문제 1 ] 아래와 같이 출력하기
- A
- AB
- ABC
- ABCD
- :
- ABCDEFGHIJKLMNOPQRSTUVW
- ABCDEFGHIJKLMNOPQRSTUVWX
- ABCDEFGHIJKLMNOPQRSTUVWXY
- ABCDEFGHIJKLMNOPQRSTUVWXYZ
- -----------------------------------------------------*/
+/**
+ * -----------------------------------------------------
+ * [ 문제 1 ] 아래와 같이 출력하기
+ * A
+ * AB
+ * ABC
+ * ABCD
+ * :
+ * ABCDEFGHIJKLMNOPQRSTUVW
+ * ABCDEFGHIJKLMNOPQRSTUVWX
+ * ABCDEFGHIJKLMNOPQRSTUVWXY
+ * ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ * -----------------------------------------------------
+ */
 public class Ex_190417 {
     public static void main(String[] args) {
-        for(int i=0; i<26; i++) {
-            for (char ch = 'A'; ch <= ('A'+i); ch++) {
+        for (int i = 0; i < 26; i++) {
+            for (char ch = 'A'; ch <= ('A' + i); ch++) {
                 System.out.print( ch );
             }
-            System.out.println();
+            System.out.println( );
         }
     }
 }
 
 
-/**-----------------------------------------------------
- [ 문제 2 ] 아래와 같이 출력하기
- ABCDEFGHIJKLMNOPQRSTUVWXYZ
- ABCDEFGHIJKLMNOPQRSTUVWXY
- ABCDEFGHIJKLMNOPQRSTUVWX
- ABCDEFGHIJKLMNOPQRSTUVW
- ABCDEFGHIJKLMNOPQRSTUV
- :
- ABC
- AB
- A
- -----------------------------------------------------*/
+/**
+ * -----------------------------------------------------
+ * [ 문제 2 ] 아래와 같이 출력하기
+ * ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ * ABCDEFGHIJKLMNOPQRSTUVWXY
+ * ABCDEFGHIJKLMNOPQRSTUVWX
+ * ABCDEFGHIJKLMNOPQRSTUVW
+ * ABCDEFGHIJKLMNOPQRSTUV
+ * :
+ * ABC
+ * AB
+ * A
+ * ----------------------------------------------------*/
 //public class Ex_190417 {
 //    public static void main(String[] args) {
 //        for(int i=0; i<26; i++) {
@@ -94,14 +97,14 @@ public class Ex_190417 {
 /**-----------------------------------------------------
  [ 문제 5 ] 아래와 같이 출력하기
  ABCDEFGHIJKLMNOPQRSTUVWXYZ
-  BCDEFGHIJKLMNOPQRSTUVWXYZ
-   CDEFGHIJKLMNOPQRSTUVWXYZ
-    DEFGHIJKLMNOPQRSTUVWXYZ
-           :
-                       WXYZ
-                        XYZ
-                         YZ
-                          Z
+ BCDEFGHIJKLMNOPQRSTUVWXYZ
+ CDEFGHIJKLMNOPQRSTUVWXYZ
+ DEFGHIJKLMNOPQRSTUVWXYZ
+ :
+ WXYZ
+ XYZ
+ YZ
+ Z
  -----------------------------------------------------*/
 //public class Ex_190417 {
 //    public static void main(String[] args) {

@@ -28,10 +28,10 @@ public class Ex01_IncDec {
 //
 //        System.out.println("============================");
 
-        int a=5, b=7;
-        System.out.println("A=" + ++a + ", B=" + --b );    // 6, 6
-        System.out.println("A=" + a + ", B=" + b );    // 6, 6
-        System.out.println("A=" + a++ + ", B=" + b-- );    // 6, 6 결과 이후에 연산자가 붙어서 a=7, b=5인 상태이다. 밑에서 확인.
-        System.out.println("A=" + a + ", B=" + b );    // 7, 5
+        int a = 5, b = 7;
+        System.out.println( "A=" + ++a + ", B=" + --b );    // 6, 6
+        System.out.println( "A=" + a + ", B=" + b );    // 6, 6
+        System.out.println( "A=" + a++ + ", B=" + b-- );    // 6, 6 결과 이후에 연산자가 붙어서 a=7, b=5인 상태이다. 밑에서 확인.
+        System.out.println( "A=" + a + ", B=" + b );    // 7, 5
     }
 }
