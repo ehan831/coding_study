@@ -1,0 +1,19 @@
+Java IO (Input, Output) - 자바 입출력
+입출력 - Stream
+    - java.io package
+
+    1. byte stream
+        - InputStream - FileInputStream
+        - OutputStream - FileOutputStream
+
+        + 필터 스트림
+           DataOutputStream > DataInputStream
+           ObjectOutputStream > ObjectInputStream (class 사용 시 // 직렬화 필요(Serializable)
+
+    2. char stream
+
+        - Reader    - FileReader
+        - Writer    - FileWriter
+
+
+    cf.RandomAccessFile - Input & Output stream  // 둘 다 가능함
