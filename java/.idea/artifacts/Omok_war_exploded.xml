@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Omok:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Omok_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Omok/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Omok" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

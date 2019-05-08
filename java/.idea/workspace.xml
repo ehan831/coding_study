@@ -2,18 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a29e278-4c57-4a13-95fc-5c4f544d1ad6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Basic5class/Basic5class.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Basic5class/Basic5class.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Basic5class/src/basic/Ex3_DalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Basic5class/src/basic/Ex3_DalTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Basic5class/src/basic/Ex4_CounterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Basic5class/src/basic/Ex4_CounterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Basic5class/src/basic/Ex4_ZBombTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Basic5class/src/basic/Ex4_ZBombTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Basic5class/src/basic/Ex8_BreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Basic5class/src/basic/Ex8_BreadTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Basic5class/src/index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Basic5class/src/index.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Basic5class/src/json/GuiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Basic5class/src/json/GuiTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Basic5class/src/readerwriter/ReaderWriterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Basic5class/src/readerwriter/ReaderWriterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GUI/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GUI/GUI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../GUI/GUI.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Basic5Class_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/eunguhan.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/eunguhan.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -37,8 +25,8 @@
                 <file pinned="false" current-in-tab="true">
                   <entry file="file://$PROJECT_DIR$/../Basic5class/src/network1/basic/SimpleClient.java">
                     <provider selected="true" editor-type-id="text-editor">
-                      <state relative-caret-position="187">
-                        <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+                      <state relative-caret-position="561">
+                        <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
                       </state>
                     </provider>
                   </entry>
@@ -50,8 +38,8 @@
                 <file pinned="false" current-in-tab="true">
                   <entry file="file://$PROJECT_DIR$/../Basic5class/src/network1/basic/SimpleServer.java">
                     <provider selected="true" editor-type-id="text-editor">
-                      <state relative-caret-position="255">
-                        <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+                      <state relative-caret-position="527">
+                        <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
                       </state>
                     </provider>
                   </entry>
@@ -65,29 +53,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Basic5class/src/network2/thread/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="84" column="23" selection-start-line="84" selection-start-column="23" selection-end-line="84" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Basic5class/src/index.txt">
+        <entry file="file://$PROJECT_DIR$/../Omok/src/BadukClientMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="41" column="17" lean-forward="true" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+            <state relative-caret-position="187">
+              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Basic5class/src/network2/thread/Server.java">
+        <entry file="file://$PROJECT_DIR$/../Omok/src/BadukServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="236">
+              <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -107,8 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/z_useful/EnumTest.java" />
-        <option value="$PROJECT_DIR$/src/z_useful/Enum.java" />
         <option value="$PROJECT_DIR$/src/z_useful/EnumEx.java" />
         <option value="$PROJECT_DIR$/src/z_useful/EnumNames.java" />
         <option value="$PROJECT_DIR$/src/z_useful/DateFormatEx.java" />
@@ -153,11 +130,13 @@
         <option value="$PROJECT_DIR$/../Basic5class/src/basic/Ex7_Synch.java" />
         <option value="$PROJECT_DIR$/../Basic5class/src/basic/Ex8_BreadTest.java" />
         <option value="$PROJECT_DIR$/../Basic5class/src/io/others/FileEx.java" />
-        <option value="$PROJECT_DIR$/../Basic5class/src/network1/basic/SimpleServer.java" />
         <option value="$PROJECT_DIR$/../Basic5class/src/network2/thread/Server.java" />
-        <option value="$PROJECT_DIR$/../Basic5class/src/network1/basic/SimpleClient.java" />
         <option value="$PROJECT_DIR$/../Basic5class/src/network2/thread/Client.java" />
         <option value="$PROJECT_DIR$/../Basic5class/src/index.txt" />
+        <option value="$PROJECT_DIR$/../Basic5class/src/network1/basic/SimpleClient.java" />
+        <option value="$PROJECT_DIR$/../Basic5class/src/network1/basic/SimpleServer.java" />
+        <option value="$PROJECT_DIR$/../Basic5class/src/network3/chat/ChatServer.java" />
+        <option value="$PROJECT_DIR$/../Basic5class/src/network3/chat/ChatClient.java" />
       </list>
     </option>
   </component>
@@ -174,49 +153,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Basic5class" type="462c0819:PsiDirectoryNode" />
+              <item name="Omok" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Basic5class" type="462c0819:PsiDirectoryNode" />
+              <item name="Omok" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Basic5class" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Basic5class" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Basic5class" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
-              <item name="Server.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557222188772" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557285401037" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -225,17 +185,18 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../Basic5class/src/basic" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Omok/src" />
+      <recent name="$PROJECT_DIR$/../Basic5class/src" />
+      <recent name="$PROJECT_DIR$/../Basic5class/src/thread/basic" />
+      <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="_daily_workout" />
       <recent name="m_access" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../Basic5class/src" />
-      <recent name="$PROJECT_DIR$/../Basic5class/src/thread/basic" />
-      <recent name="$PROJECT_DIR$/src" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Basic5class/src/basic" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -250,39 +211,48 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.BadukClientMain">
+    <configuration name="BadukClientMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BadukClientMain" />
+      <module name="Omok" />
+      <option name="PROGRAM_PARAMETERS" value="127.0.0.1 black" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Omok" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="network3.chat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BadukServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BadukServer" />
+      <module name="Omok" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="network3.chat.ChatServer" />
+      <module name="Basic5class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="network3.chat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="network2.thread.Client" />
       <module name="Basic5class" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="network2.thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex8_BreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.Ex8_BreadTest" />
-      <module name="Basic5class" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.others.FileEx" />
-      <module name="Basic5class" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.others.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -303,26 +273,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="network1.basic.SimpleServer" />
-      <module name="Basic5class" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="network1.basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.BadukClientMain" />
+      <item itemvalue="Application.ChatServer" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.SimpleClient" />
+      <item itemvalue="Application.BadukServer" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BadukServer" />
+        <item itemvalue="Application.BadukClientMain" />
+        <item itemvalue="Application.ChatServer" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.SimpleClient" />
-        <item itemvalue="Application.SimpleServer" />
-        <item itemvalue="Application.FileEx" />
-        <item itemvalue="Application.Ex8_BreadTest" />
       </list>
     </recent_temporary>
   </component>
@@ -353,18 +317,19 @@
       <workItem from="1556873435129" duration="1533000" />
       <workItem from="1557189777882" duration="4180000" />
       <workItem from="1557194548422" duration="16351000" />
-      <workItem from="1557275657062" duration="707000" />
+      <workItem from="1557275657062" duration="7140000" />
+      <workItem from="1557284524447" duration="875000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142490000" />
+    <option name="totallyTimeSpent" value="149798000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="971" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13980465" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14102565" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -374,7 +339,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.23890784" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.497558" weight="0.22298066" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4957265" visible="true" weight="0.22298066" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993174" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -382,8 +347,8 @@
       <window_info anchor="bottom" id="Duplicate detector" order="7" weight="0.32992035" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.502442" side_tool="true" visible="true" weight="0.22298066" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.498779" weight="0.3287827" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50427353" side_tool="true" visible="true" weight="0.22298066" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4981685" weight="0.3287827" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32992035" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
@@ -440,34 +405,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/c_control/Ex08_While개념.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-461">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/javax/swing/plaf/basic/BasicButtonListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="251" selection-start-line="251" selection-end-line="251" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_daily_workout/Ex_190429_origin.java" />
-    <entry file="file://$PROJECT_DIR$/src/c_control/Ex09_While연습.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/c_control/Ex07_중첩for.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/c_control/Ex01_if_주민번호.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/c_control/Ex10_Do_While.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -790,24 +727,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Basic5class/src/network2/thread/Server.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Basic5class/src/network1/basic/SimpleClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        <state relative-caret-position="561">
+          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../Basic5class/src/network1/basic/SimpleServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        <state relative-caret-position="527">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Basic5class/src/network3/chat/ChatClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+          <folding>
+            <element signature="e#6414#6415#0" expanded="true" />
+            <element signature="e#6447#6448#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Basic5class/src/index.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -818,10 +766,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Basic5class/src/index.txt">
+    <entry file="file://$PROJECT_DIR$/../Basic5class/src/network3/chat/ChatServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="41" column="17" lean-forward="true" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        <state relative-caret-position="602">
+          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Basic5class/src/network2/thread/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Omok/src/BadukService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Omok/src/BadukClientProtocol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Omok/src/BadukServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Omok/src/BadukClientMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -879,11 +858,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>GUI</last-edited>
+          <last-edited>Omok</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -903,6 +883,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>img</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
