@@ -17,3 +17,44 @@ Java IO (Input, Output) - 자바 입출력
 
 
     cf.RandomAccessFile - Input & Output stream  // 둘 다 가능함
+
+
+쓰레드
+    program : 일종의 software
+
+    process : 현재 cpu 가 실행 중인 프로그램
+        - thread : 한 프로세스 안에서 동시에 여럿의 작업을 함
+
+cf) processor : cpu 하드웨어
+
+Runnable
+
+
+// 클라이언트와 서버
+
+1. 클라이언트
+    1. Socket(server ip, server port) 생성
+    2. 소켓 안의 입출력 얻어오기
+        s.getInputStream();
+        s.getOutputStream();
+    3. 데이터 입출력
+        out.write(data);
+        result = in.read();
+    4. 스트림 닫기
+        in.close();
+        out.close();
+        s.close();
+
+2. 서버
+    1. ServerSocket(port) 생성
+    2. Socket s = ss.accept();
+    3. 입출력 얻어오기
+        in = s.getInputStream();
+        out = s.getOutputStream();
+    4. 데이터 입출력
+        data = in.read();
+        out.write("ok");
+    5. 스트림 닫기
+        in.close();
+        out.close();
+        s.close();

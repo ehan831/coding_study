@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../Basic5class/Basic5class.iml" filepath="$PROJECT_DIR$/../Basic5class/Basic5class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GUI/GUI.iml" filepath="$PROJECT_DIR$/../GUI/GUI.iml" />
       <module fileurl="file://$PROJECT_DIR$/java.iml" filepath="$PROJECT_DIR$/java.iml" />
     </modules>
   </component>
