@@ -59,7 +59,7 @@ INSERT INTO EMP VALUES
 -- 인사관리 ( hr 계정 )에서 EMPLOYEES 테이블에서
 
 --1. EMPLOYEES 테이블에서 사원 이름을 first_name과 last_name를 합쳐 full_name으로 출력
- SELECT first_name ||' '|| last_name AS full_name FROM EMPLOYEES;
+ SELECT FIRST_NAME ||' '|| LAST_NAME AS full_name FROM EMPLOYEES;
 
 --2. 부서번호가 30(구매부서)이고 급여 10000미만인 사원의 full_name과 월급,부서번호를 출력
  SELECT FIRST_NAME ||' '|| LAST_NAME AS full_name, SALARY, DEPARTMENT_ID FROM EMPLOYEES
@@ -94,7 +94,7 @@ SELECT FIRST_NAME, LAST_NAME, PHONE_NUMBER FROM EMPLOYEES WHERE PHONE_NUMBER LIK
 -- 테이블 생성
 CREATE TABLE reg_tab( text varchar2(20) );
 
--- 레코드 입력
+-- 데이터 입력
 INSERT INTO reg_tab VALUES('TIGER');
 INSERT INTO reg_tab VALUES('TIGGER');
 INSERT INTO reg_tab VALUES('elephant');
@@ -121,7 +121,7 @@ INSERT INTO reg_tab VALUES('박쥐');
 COMMIT;
 
 
-[ 문제 ]
+-- [ 문제 ]
 
 -- 1.  text 컬럼의 문자열에서 't'로시작하는 데이터 검색
  SELECT * FROM reg_tab WHERE REGEXP_LIKE(text, '^t');
