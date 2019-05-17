@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../Basic5class/Basic5class.iml" filepath="$PROJECT_DIR$/../Basic5class/Basic5class.iml" />
       <module fileurl="file://$PROJECT_DIR$/../GUI/GUI.iml" filepath="$PROJECT_DIR$/../GUI/GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JDBC/JDBC.iml" filepath="$PROJECT_DIR$/../JDBC/JDBC.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Omok/Omok.iml" filepath="$PROJECT_DIR$/../Omok/Omok.iml" />
       <module fileurl="file://$PROJECT_DIR$/java.iml" filepath="$PROJECT_DIR$/java.iml" />
     </modules>
