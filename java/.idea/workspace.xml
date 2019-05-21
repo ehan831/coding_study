@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a29e278-4c57-4a13-95fc-5c4f544d1ad6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../JDBC/JDBC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/JDBC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/src/emp/oracle/InsertTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/src/emp/oracle/InsertTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/src/emp/oracle/SelectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/src/emp/oracle/SelectTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/src/emp/oracle/SelectTest_mysql.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/src/emp/oracle/SelectTest_mysql.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/eunguhan.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/eunguhan.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -15,31 +20,74 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="DockManager">
+    <window id="4">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/../VideoShopClass/src/model/dao/CustomerModel.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="974">
+                    <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+    <window id="3">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/../JDBC/src/jdbc/gui/InfoView.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="243">
+                    <caret line="272" column="30" selection-start-line="272" selection-start-column="30" selection-end-line="272" selection-end-column="30" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/../JDBC/src/jdbc/gui/InfoVO.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="68">
+                    <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+                    <folding>
+                      <element signature="e#561#562#0" expanded="true" />
+                      <element signature="e#593#594#0" expanded="true" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/../JDBC/src/jdbc/gui/InfoModelImpl.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="278">
+                    <caret line="106" column="48" lean-forward="true" selection-start-line="106" selection-start-column="48" selection-end-line="106" selection-end-column="48" />
+                    <folding>
+                      <element signature="imports" expanded="true" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Omok/src/BadukClientMain.java">
+        <entry file="file://$PROJECT_DIR$/../VideoShopClass/src/view/CustomerView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Omok/src/BadukServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="62" selection-start-line="62" selection-end-line="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../JDBC/src/emp/oracle/InsertTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="40" column="9" selection-start-line="25" selection-start-column="4" selection-end-line="40" selection-end-column="9" />
+            <state relative-caret-position="187">
+              <caret line="114" column="29" selection-start-line="114" selection-start-column="29" selection-end-line="114" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -48,31 +96,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../JDBC/src/emp/oracle/SelectTest.java">
+        <entry file="file://$PROJECT_DIR$/../VideoShopClass/src/model/vo/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="12" selection-start-line="12" selection-end-line="15" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/a_datatype/Ex05_Scanner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../JDBC/src/emp/oracle/SelectTest_mysql.java">
+        <entry file="file://$PROJECT_DIR$/../VideoShopClass/src/model/CustomerDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+            <state relative-caret-position="136">
+              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -82,9 +118,21 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>driver</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/../JDBC/src/emp/oracle</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -92,25 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/z_useful/DecimalFormatEx.java" />
-        <option value="$PROJECT_DIR$/src/z_useful/MessageFormatEx.java" />
-        <option value="$PROJECT_DIR$/src/z_useful/ChoiceFormatEx.java" />
-        <option value="$PROJECT_DIR$/src/q_collection/ArrayListEx.java" />
-        <option value="$PROJECT_DIR$/src/q_collection/ArrayListEx2.java" />
-        <option value="$PROJECT_DIR$/src/q_collection/HashSetEx.java" />
-        <option value="$PROJECT_DIR$/src/q_collection/HashSetLotto.java" />
-        <option value="$PROJECT_DIR$/src/q_collection/HashEx.java" />
-        <option value="$PROJECT_DIR$/src/q_collection/TreeSetEx.java" />
-        <option value="$PROJECT_DIR$/src/q_collection/HashMapEx.java" />
-        <option value="$PROJECT_DIR$/src/q_collection/StackQueueEx.java" />
-        <option value="$PROJECT_DIR$/src/_daily_workout/Ex_190429_origin.java" />
-        <option value="$PROJECT_DIR$/src/_daily_workout/Ex_190429.java" />
-        <option value="$PROJECT_DIR$/src/r_calendar/CalendarEx.java" />
-        <option value="$PROJECT_DIR$/src/r_combobox/CalendarEx.java" />
-        <option value="$PROJECT_DIR$/src/s_numbergame/MyFrame.java" />
-        <option value="$PROJECT_DIR$/src/s_numbergame/NumberGame.java" />
-        <option value="$PROJECT_DIR$/src/Test.java" />
-        <option value="$PROJECT_DIR$/../Basic5class/src/bytestream/OutputTestFirst.java" />
         <option value="$PROJECT_DIR$/../Basic5class/src/bytestream/InputTestFirst.java" />
         <option value="$PROJECT_DIR$/../Basic5class/src/datastream/Person.java" />
         <option value="$PROJECT_DIR$/../Basic5class/src/datastream/DataStreamTest.java" />
@@ -140,13 +169,33 @@
         <option value="$PROJECT_DIR$/../Basic5class/src/network1/basic/SimpleServer.java" />
         <option value="$PROJECT_DIR$/../Basic5class/src/network3/chat/ChatServer.java" />
         <option value="$PROJECT_DIR$/../Basic5class/src/network3/chat/ChatClient.java" />
-        <option value="$PROJECT_DIR$/../JDBC/src/emp/oracle/InsertTest.java" />
-        <option value="$PROJECT_DIR$/../JDBC/src/emp/oracle/SelectTest.java" />
         <option value="$PROJECT_DIR$/../JDBC/src/emp/oracle/SelectTest_mysql.java" />
+        <option value="$PROJECT_DIR$/../JDBC/src/emp/oracle/InsertTest.java" />
+        <option value="$PROJECT_DIR$/../JDBC/src/emp/oracle/UpdateTest.java" />
+        <option value="$PROJECT_DIR$/../JDBC/src/emp/oracle/connect_db.java" />
+        <option value="$PROJECT_DIR$/../JDBC/src/emp/oracle/SelectTest.java" />
+        <option value="$PROJECT_DIR$/../JDBC/src/jdbc/gui/infoModelImpl.java" />
+        <option value="$PROJECT_DIR$/../JDBC/src/jdbc/gui/infoView.java" />
+        <option value="$PROJECT_DIR$/../JDBC/src/jdbc/gui/InfoVO.java" />
+        <option value="$PROJECT_DIR$/../JDBC/src/jdbc/gui/InfoMySqlView.java" />
+        <option value="$PROJECT_DIR$/../JDBC/src/jdbc/gui/InfoModel.java" />
+        <option value="$PROJECT_DIR$/../JDBC/src/jdbc/gui/InfoMySqlImpl.java" />
+        <option value="$PROJECT_DIR$/../JDBC/src/jfreechart/MyFrame.java" />
+        <option value="$PROJECT_DIR$/../JDBC/src/jfreechart/Database.java" />
+        <option value="$PROJECT_DIR$/../JDBC/src/jfreechart/ChartB.java" />
+        <option value="$PROJECT_DIR$/../JDBC/src/g_tabpane/CustomerAdmin.java" />
+        <option value="$PROJECT_DIR$/../VideoShopClass/src/view/CustomerVO.java" />
+        <option value="$PROJECT_DIR$/../JDBC/src/jdbc/gui/InfoView.java" />
+        <option value="$PROJECT_DIR$/../JDBC/src/jdbc/gui/InfoModelImpl.java" />
+        <option value="$PROJECT_DIR$/../VideoShopClass/src/model/vo/Video.java" />
+        <option value="$PROJECT_DIR$/../VideoShopClass/src/model/vo/Customer.java" />
+        <option value="$PROJECT_DIR$/../VideoShopClass/src/view/CustomerView.java" />
+        <option value="$PROJECT_DIR$/../VideoShopClass/src/model/dao/CustomerModel.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-18" />
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="971" />
@@ -159,17 +208,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
               <item name="JDBC" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -181,18 +224,55 @@
               <item name="java" type="b2602c69:ProjectViewProjectNode" />
               <item name="JDBC" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="oracle" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VideoShopClass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VideoShopClass" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VideoShopClass" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VideoShopClass" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VideoShopClass" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="vo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VideoShopClass" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558083333543" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558424599581" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -201,19 +281,24 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../Basic5class/src/basic" />
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="jdbc.gui" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../VideoShopClass/src" />
+      <recent name="$PROJECT_DIR$/../JDBC/src" />
+      <recent name="$PROJECT_DIR$/../Omok/src" />
+      <recent name="$PROJECT_DIR$/../Basic5class/src" />
+      <recent name="$PROJECT_DIR$/../Basic5class/src/thread/basic" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="jdbc.gui" />
       <recent name="emp.oracle" />
       <recent name="_daily_workout" />
       <recent name="m_access" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../Omok/src" />
-      <recent name="$PROJECT_DIR$/../Basic5class/src" />
-      <recent name="$PROJECT_DIR$/../Basic5class/src/thread/basic" />
-      <recent name="$PROJECT_DIR$/src" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Basic5class/src/basic" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -228,15 +313,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SelectTest_mysql">
-    <configuration name="BadukClientMain" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BadukClientMain" />
-      <module name="Omok" />
-      <option name="PROGRAM_PARAMETERS" value="127.0.0.1 red" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Omok" />
+  <component name="RunManager" selected="Application.VideoShop">
+    <configuration name="InfoModelImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jdbc.gui.InfoModelImpl" />
+      <module name="JDBC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="network3.chat.*" />
+          <option name="PATTERN" value="jdbc.gui.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,19 +327,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BadukServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BadukServer" />
-      <module name="Omok" />
+    <configuration name="InfoView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jdbc.gui.InfoView" />
+      <module name="JDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdbc.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="emp.oracle.InsertTest" />
+    <configuration name="MyFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jfreechart.MyFrame" />
       <module name="JDBC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="emp.oracle.*" />
+          <option name="PATTERN" value="jfreechart.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,33 +366,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectTest_mysql" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="emp.oracle.SelectTest_mysql" />
-      <module name="JDBC" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="emp.oracle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="VideoShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VideoShop" />
+      <module name="VideoShopClass" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BadukClientMain" />
-      <item itemvalue="Application.BadukServer" />
-      <item itemvalue="Application.InsertTest" />
       <item itemvalue="Application.SelectTest" />
-      <item itemvalue="Application.SelectTest_mysql" />
+      <item itemvalue="Application.InfoView" />
+      <item itemvalue="Application.InfoModelImpl" />
+      <item itemvalue="Application.MyFrame" />
+      <item itemvalue="Application.VideoShop" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SelectTest_mysql" />
+        <item itemvalue="Application.VideoShop" />
+        <item itemvalue="Application.MyFrame" />
+        <item itemvalue="Application.InfoView" />
+        <item itemvalue="Application.InfoModelImpl" />
         <item itemvalue="Application.SelectTest" />
-        <item itemvalue="Application.InsertTest" />
-        <item itemvalue="Application.BadukServer" />
-        <item itemvalue="Application.BadukClientMain" />
       </list>
     </recent_temporary>
   </component>
@@ -338,17 +421,19 @@
       <workItem from="1557284524447" duration="2464000" />
       <workItem from="1557293574502" duration="249000" />
       <workItem from="1557390767709" duration="706000" />
-      <workItem from="1558072456941" duration="5639000" />
+      <workItem from="1558072456941" duration="5642000" />
+      <workItem from="1558313429256" duration="33473000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="157981000" />
+    <option name="totallyTimeSpent" value="191457000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="971" extended-state="6" />
+    <frame x="-18" y="23" width="1680" height="971" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14468865" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23748474" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -357,17 +442,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.23890784" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.495116" visible="true" weight="0.22298066" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4993895" weight="0.3993174" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4993895" weight="0.23890784" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4884005" visible="true" weight="0.17406143" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.498779" weight="0.3993174" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Duplicate detector" order="7" weight="0.32992035" />
+      <window_info anchor="bottom" id="Duplicate detector" order="7" sideWeight="0.61172163" weight="0.32992035" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.504884" side_tool="true" visible="true" weight="0.22298066" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4981685" weight="0.3287827" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.51159954" side_tool="true" visible="true" weight="0.17406143" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4908425" weight="0.3287827" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32992035" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
@@ -424,264 +509,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/awt/Container.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1">
-          <caret line="406" column="72" lean-forward="true" selection-start-line="406" selection-start-column="72" selection-end-line="406" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/javax/swing/DefaultButtonModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="299" lean-forward="true" selection-start-line="299" selection-end-line="299" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/javax/swing/AbstractButton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="996">
-          <caret line="2347" selection-start-line="2347" selection-end-line="2347" />
-          <folding>
-            <element signature="e#83485#83486#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="58" selection-end-line="35" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/awt/CardLayout.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="403" selection-start-line="403" selection-end-line="403" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/s_numbergame/NumberGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="628">
-          <caret line="112" column="17" lean-forward="true" selection-start-line="112" selection-start-column="17" selection-end-line="112" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/c_control/Ex03_주민번호_나이.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="21" column="43" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/r_combobox/CalendarEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="801">
-          <caret line="133" column="5" selection-start-line="133" selection-start-column="5" selection-end-line="133" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Basic5class/src/bytestream/OutputTestFirst.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Basic5class/src/readerwriter/ReaderWriterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="76" column="33" selection-start-line="76" selection-start-column="33" selection-end-line="76" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Basic5class/src/bytestream/InputTestFirst.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Basic5class/src/datastream/DataStreamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Basic5class/src/datastream/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="43" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="43" />
-          <folding>
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#490#491#0" expanded="true" />
-            <element signature="e#516#517#0" expanded="true" />
-            <element signature="e#551#552#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
-            <element signature="e#614#615#0" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
-            <element signature="e#687#688#0" expanded="true" />
-            <element signature="e#723#724#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#789#790#0" expanded="true" />
-            <element signature="e#837#838#0" expanded="true" />
-            <element signature="e#879#880#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Basic5class/src/json/GuiTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="36" selection-start-column="36" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test_190502.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="39" column="43" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../GUI/src/c_event/Event.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../GUI/src/c_event/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Basic5class/src/thread/basic/Ex03_DalTest.java" />
-    <entry file="file://$PROJECT_DIR$/../Basic5class/src/thread/basic/Ex3_DalTest.java" />
-    <entry file="file://$PROJECT_DIR$/../Basic5class/src/basic/Ex02_ThreadTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="23" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Basic5class/src/basic/Ex01_Process.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Basic5class/src/basic/Ex3_DalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-          <folding>
-            <element signature="e#573#574#0" expanded="true" />
-            <element signature="e#615#616#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Basic5class/src/basic/imgs/bomb_3.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/src/network1/basic/SimpleClient.java" />
-    <entry file="file://$PROJECT_DIR$/../Basic5class/src/basic/Ex4_CounterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="44" column="33" lean-forward="true" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
-          <folding>
-            <element signature="e#2177#2178#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Basic5class/src/basic/Ex02_RunnableTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="18" selection-start-line="18" selection-end-line="35" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Basic5class/src/basic/Ex4_ZBombTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" column="54" lean-forward="true" selection-start-line="44" selection-start-column="54" selection-end-line="44" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Basic5class/src/basic/Ex5_ThreadStop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Basic5class/src/basic/Ex6_Priority.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Basic5class/src/basic/Ex7_Synch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Basic5class/src/basic/Ex8_BreadTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -755,27 +582,6 @@
     <entry file="file://$PROJECT_DIR$/../Omok/src/BadukService.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Omok/src/BadukClientProtocol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Omok/src/BadukClientMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Omok/src/BadukServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Basic5class/src/network1/basic/SimpleServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -790,16 +596,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JDBC/src/emp/oracle/InsertTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="40" column="9" selection-start-line="25" selection-start-column="4" selection-end-line="40" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/a_datatype/Ex05_Scanner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -807,20 +603,327 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../Omok/src/BadukServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/InfoView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="27" lean-forward="true" selection-end-line="213" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JDBC/src/emp/oracle/SelectTest_mysql.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JDBC/src/emp/oracle/InsertTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../JDBC/src/emp/oracle/SelectTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" selection-start-line="12" selection-end-line="15" selection-end-column="39" />
+        <state relative-caret-position="245">
+          <caret line="45" column="63" selection-start-line="45" selection-start-column="63" selection-end-line="51" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JDBC/src/emp/oracle/SelectTest_mysql.java">
+    <entry file="file://$PROJECT_DIR$/../Omok/src/BadukServerProtocol.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+        <state relative-caret-position="153">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JDBC/src/jdbc/gui/InfoMySqlView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1609">
+          <caret line="290" column="37" selection-start-line="290" selection-start-column="37" selection-end-line="290" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JDBC/src/jdbc/gui/InfoModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JDBC/src/jdbc/gui/InfoMySqlImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JDBC/src/emp/oracle/UpdateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="62" column="3" selection-start-line="62" selection-start-column="3" selection-end-line="62" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#2023#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Omok/src/BadukClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1172">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Omok/src/BadukClientMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Omok/src/BadukClientProtocol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#907#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JDBC/src/emp/oracle/connect_db.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="105" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="105" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JDBC/src/jfreechart/ChartA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="51" column="48" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JDBC/src/jfreechart/PolylineBarChart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JDBC/src/jfreechart/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JDBC/src/jfreechart/MyFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JDBC/src/jfreechart/ChartB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="58" column="60" selection-start-line="58" selection-start-column="60" selection-end-line="58" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JDBC/src/g_tabpane/CustomerAdmin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JDBC/src/g_tabpane/RentAdmin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JDBC/src/g_tabpane/VideoAdmin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JDBC/src/g_tabpane/VideoShop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VideoShopClass/src/VideoShop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VideoShopClass/src/view/RentView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VideoShopClass/src/view/VideoView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1820">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/javax/swing/table/AbstractTableModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="80" column="18" selection-start-line="80" selection-start-column="18" selection-end-line="80" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VideoShopClass/src/model/VideoDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JDBC/src/jdbc/gui/InfoVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VideoShopClass/src/view/CustomerVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#683#684#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+            <element signature="e#777#778#0" expanded="true" />
+            <element signature="e#807#808#0" expanded="true" />
+            <element signature="e#841#842#0" expanded="true" />
+            <element signature="e#871#872#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
+            <element signature="e#955#956#0" expanded="true" />
+            <element signature="e#991#992#0" expanded="true" />
+            <element signature="e#1023#1024#0" expanded="true" />
+            <element signature="e#1073#1074#0" expanded="true" />
+            <element signature="e#1115#1116#0" expanded="true" />
+            <element signature="e#1147#1148#0" expanded="true" />
+            <element signature="e#1175#1176#0" expanded="true" />
+            <element signature="e#1217#1218#0" expanded="true" />
+            <element signature="e#1251#1252#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/VideoShopClass/src/model/vo/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="28" lean-forward="true" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VideoShopClass/src/model/dao/RentModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VideoShopClass/src/model/vo/Video.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JDBC/src/jdbc/gui/InfoModelImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="106" column="48" lean-forward="true" selection-start-line="106" selection-start-column="48" selection-end-line="106" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JDBC/src/jdbc/gui/InfoView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="272" column="30" selection-start-line="272" selection-start-column="30" selection-end-line="272" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VideoShopClass/src/view/CustomerView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="114" column="29" selection-start-line="114" selection-start-column="29" selection-end-line="114" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VideoShopClass/src/model/vo/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VideoShopClass/src/model/CustomerDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VideoShopClass/src/model/dao/CustomerModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="974">
+          <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
         </state>
       </provider>
     </entry>
@@ -878,7 +981,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>JDBC</last-edited>
+          <last-edited>VideoShopClass</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
