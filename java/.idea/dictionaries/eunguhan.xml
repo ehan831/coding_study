@@ -3,7 +3,9 @@
     <words>
       <w>jumsu</w>
       <w>memberid</w>
+      <w>nextval</w>
       <w>synch</w>
+      <w>vnum</w>
     </words>
   </dictionary>
 </component>
