@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>4_string.html</title>
+    <script type="text/javascript">
+        var str = '너의 삶 과 나의 삶 과 삶을 고고씽';
+        document.write( str + '<br/>' );
+        document.write( str.indexOf('삶') + '<br/>'); // 3
+        document.write( str.lastIndexOf('삶') + '<br/>'); // 14
+        document.write( str.indexOf('삶을') + '<br/>'); // 14
+        document.write( str.length + '<br/>'); // 20
+
+        var msg = '자바에서 웹프로젝트까지 열심히 합시다 짝꿍!';
+        document.write( msg.charAt(3) + '<br>'); // 서
+        document.write( msg.slice(5,12) + '<br>'); // 웹프로젝트까지
+        document.write( msg.substring(5, 12) + '<br>'); // 웹프로젝트까지
+        document.write( msg.substr(5, 12) + '<br>'); // 웹프로젝트까지 열심히
+        document.write( msg.split(' ') + '<br>'); // 자바에서 웹프로젝트까지 열심히 합시다 짝꿍!
+        document.write( msg.concat('화이팅') + '<br>'); // 자바에서 웹프로젝트까지 열심히 합시다 짝꿍!화이팅
+
+        // concat 으로 붙이면 원본을 수정하진 않는다.
+        document.write( msg + '<br>'); // 자바에서 웹프로젝트까지 열심히 합시다 짝꿍!
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

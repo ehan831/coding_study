@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>06_date.html</title>
+    <script type="text/javascript">
+        var d = new Date('2019/06/03');
+        document.write( typeof(d) + '<br>' );
+        document.write( d + '<br>' );
+        document.write( d.getFullYear() + '<br>' ); // 2019
+        document.write( d.getMonth() + '<br>' ); // 5
+        document.write( d.getDate() + '<br>' ); // 3
+        document.write( d.getDay() + '<br>' ); // 1 (일요일 0, 월요일이 1)
+        document.write( d + '<br>' );
+        document.write('==============' + '<br>');
+
+        var d2 = new Date();
+        d2.setFullYear(2019);
+        d2.setMonth(5);
+        d2.setDate(3);
+        document.write( typeof(d2) + '<br>' );
+        document.write( d2 + '<br>' );
+
+        d.setDate( d.getDate() - 10 );
+        document.write( d.toDateString() + '<br>');
+
+        d.setMonth( d.getMonth() - 12 );
+        document.write( d.toDateString() + '<br>');
+
+        // 전달의 마지막 날
+        document.write( '==============' + '<br>');
+        d.setDate(0);
+        document.write( d2.toDateString() + '<br>');
+        document.write( d2.getHours() + '<br>');
+        document.write( d2.getMinutes() + '<br>');
+        document.write( d2.getSeconds() + '<br>');
+    </script>
+</head>
+<body>
+
+</body>
+</html>

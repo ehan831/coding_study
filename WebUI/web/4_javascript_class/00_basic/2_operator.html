@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>2_operator.html</title>
+
+    <script type="text/javascript">
+        // 1. == 와 === 의 차이점
+        var num = 10;
+        var str = '10';
+        if (num == str) alert('같다1'); //이거
+        else alert('다르다1');
+
+        if (num === str) alert('같다2');
+        else alert('다르다2'); //이거
+
+        if (num != str) alert('같다3');
+        else alert('다르다3'); //이거
+
+        if (num !== str) alert('같다4'); //이거
+        else alert('다르다4');
+
+        // 2. 실수형 계산 시 주의하기
+        document.write(0.2 * 3 == 0.6 + '<br>'); // 이게 왜 False
+        document.write(0.2 * 3 + '<br>');
+        document.write(0.6 + '<br>');
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>06_simpleform.html</title>
+</head>
+<body>
+<form action="xxxxx.jsp" method="post">
+    <fieldset>
+        <legend> 회원가입</legend>
+        <ol>
+            <li>
+                이름 : <input name="NNN" type="text"/>
+                비밀번호 : <input name="PPP" type="password"/>
+            </li>
+            <li>
+                성별 : <input type="radio" name="gender" value="male" checked> 남자
+                      <input type="radio" name="gender" value="female"> 여자
+            </li>
+            <li>
+                직업 : <select name="job">
+                <option>프로그래머</option>
+                <option>디자이너</option>
+                <option>매니저</option>
+            </select>
+            </li>
+            <li>
+                취미 :
+                <input type="checkbox" checked> 잠자기
+                <input type="checkbox" > 먹기
+                <input type="checkbox" > 숨쉬기
+                <input type="checkbox" > 멍때리기
+            </li>
+            <li>
+                성별 : <input type="radio" name="gender2" value="male"> 남자
+                <input type="radio" name="gender2" value="female" checked> 여자
+            </li>
+            <li>
+                여행하고 싶은 장소 : <input type="text" list="countries" />
+                <datalist id = countries>
+                    <option value="가나" />
+                    <option value="브라질" />
+                    <option value="한국" />
+                </datalist>
+            </li>
+            <li>
+                <input type="submit" value="확인"/>
+                <input type="reset" value="취소">
+            </li>
+        </ol>
+    </fieldset>
+</form>
+</body>
+</html>

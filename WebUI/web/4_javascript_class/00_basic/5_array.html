@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>5_array.html</title>
+    <script type="text/javascript">
+        var arr = ['지민', '뷔', '정국', '랩몬', '제이홉', '슈가'];
+        document.write( arr + '<br/>' ); //         지민,뷔,정국,랩몬,제이홉,슈가
+        document.write( arr.join('/') + '<br/>' ); //         지민/뷔/정국/랩몬/제이홉/슈가
+        document.write( arr.slice(3) + '<br/>' ); //       랩몬,제이홉,슈가 //뒤에서부터 3
+        document.write( arr.slice(1,3) + '<br/>' ); //         뷔,정국 // 1,2
+        document.write( arr.pop() + '<br/>' ); // 슈가 // 마지막 값
+        document.write( arr + '<br/>' ); //         지민,뷔,정국,랩몬,제이홉 // pop 한 값이 아웃
+        document.write( arr.push('방탄') + '<br/>' ); //         6
+        document.write( arr + '<br/>' ); //         지민,뷔,정국,랩몬,제이홉,방탄 // push 로 값 추가
+        document.write( arr.concat('진') + '<br/>' ); //  지민,뷔,정국,랩몬,제이홉,방탄,진
+        document.write( arr.shift() + '<br/>' ); // 지민 // 왼쪽으로 한칸씩 땡기기
+        document.write( arr + '<br/>' );
+
+        var arr = ['000', '111', '222', '333', '444', '555'];
+        document.write( arr + '<br/>' );
+        document.write( arr.join('/') + '<br/>' );
+        document.write( arr.slice(3) + '<br/>' );
+        document.write( arr.slice(1,3) + '<br/>' );
+        document.write( arr.pop() + '<br/>' );
+        document.write( arr + '<br/>' );
+        document.write( arr.push('666') + '<br/>' );
+        document.write( arr + '<br/>' );
+        document.write( arr.concat('777') + '<br/>' );
+        document.write( arr.shift() + '<br/>' );
+
+        document.write( arr.reverse() + '<br/>' );
+        document.write( arr + '<br/>' );    // 원본 변경됨
+        document.write( arr.sort() + '<br/>' );
+        document.write( arr + '<br/>' );
+    </script>
+</head>
+<body>
+
+</body>
+</html>

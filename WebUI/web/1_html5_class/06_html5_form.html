@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>06_html5_form.html</title>
+</head>
+<body>
+<form action="xxxx.jsp" method="get">
+    <fieldset>
+        <legend>개인정보</legend>
+        <ol>
+            <li>
+                <label for="name">이  름 **</label>
+                <input type="text" name="name" id="name" placeholder="이름을 입력하세요" required>
+            </li>
+            <li>
+                <label for="email">이메일 **</label>
+                <input type="email" name="email" id="email" placeholder="이메일을 입력하세요" required>
+            </li>
+            <li>
+                <label for="name">연락처 **</label>
+                <input type="tel" name="tel" id="tel" placeholder="연락처를 입력하세요" required>
+            </li>
+            <li>
+                <label for="mybirth">생일 **</label>
+                <input type="date" name="date" id="mybirth" placeholder = "입력하세요" required>
+            </li>
+        </ol>
+    </fieldset>
+    <fieldset>
+        <input type="submit" value="전송">
+    </fieldset>
+</form>
+</body>
+</html>
