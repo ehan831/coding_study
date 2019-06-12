@@ -3,6 +3,47 @@
 <head>
 	<meta charset="UTF-8">
 	<title> Javascript 객체지향 </title>
+	<script type="text/javascript">
+		// 1. 클래스 선언 - 생성자 함수를 이용
+		var Student = function (name, kor, eng, math) {
+			this.name = name;
+			this["kor"] = kor;
+			this["eng"] = eng;
+			this["math"] = math;
+
+			this.sum = function() {
+				return kor + eng + math;
+			}
+		};
+
+		var s1 = new Student('홍길동', 90, 80, 70);
+		document.write(s1.name + " 총점 : " + s1.sum() + "<br>");
+
+		/** 프로토 타입 1 */
+		// Student.prototype.display = function() {
+		// 	return this.name + "님 " + this.kor + "/" + this.eng + "/" + this.math;
+		// };
+
+		/** 프로토 타입 2 */
+		// Student.prototype = {
+		// 	display : function() {
+		// 		return this.name + "님 " + this.kor + "/" + this.eng + "/" + this.math;
+		// 	}
+		// };
+
+		s1.display = function() {
+			return this.name + "님 " + this.kor + "/" + this.eng + "/" + this.math;
+		};
+
+		document.write(s1.display() + "<br>");
+
+		var s2 = new Student('홍길서', 50, 60, 70);
+		document.write(s2.name + " 총점 : " + s2.sum() + "<br>"); // 홍길서 총점 : 180
+		document.write(s2.display() + "<br>"); //  TypeError: s2.display is not a function
+		// 22 번째 줄의 prototype 선언해주면 여기저기서 잘 쓸 수 있음
+
+	</script>
+
 </head>
 <body>
 <script>

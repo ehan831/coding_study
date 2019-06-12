@@ -6,7 +6,33 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa06cf95-0380-4401-af7b-6aa7c8b04107" name="Default Changelist" comment="" />
+    <list default="true" id="fa06cf95-0380-4401-af7b-6aa7c8b04107" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/WebUI_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/WebUI_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/4_javascript_class/05_form/1_form_check.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/4_javascript_class/05_form/1_form_check.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/4_javascript_class/05_form/1_form_var.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/4_javascript_class/05_form/1_form_var.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/4_javascript_class/05_form/2_select_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/4_javascript_class/05_form/2_select_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/4_javascript_class/05_form/2_select_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/4_javascript_class/05_form/2_select_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/4_javascript_class/05_form/3_day.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/4_javascript_class/05_form/3_day.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/4_javascript_class/05_form/js/formCheck.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/4_javascript_class/05_form/js/formCheck.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/4_javascript_class/06_dom/0_sample.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/4_javascript_class/06_dom/0_sample.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/4_javascript_class/06_dom/1_sample.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/4_javascript_class/06_dom/1_sample.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/4_javascript_class/06_dom/2_sample.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/4_javascript_class/06_dom/2_sample.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/4_javascript_class/07_function/00_kinds_of_func.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/4_javascript_class/07_function/00_kinds_of_func.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/4_javascript_class/07_function/01_kinds_of_func.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/4_javascript_class/07_function/01_kinds_of_func.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/4_javascript_class/07_function/04_js_valuable.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/4_javascript_class/07_function/04_js_valuable.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/4_javascript_class/07_function/05_js_parameter.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/4_javascript_class/07_function/05_js_parameter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/4_javascript_class/07_function/06_function_arg.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/4_javascript_class/07_function/06_function_arg.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/4_javascript_class/07_function/09_progress.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/4_javascript_class/07_function/09_progress.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/4_javascript_class/08_oop/01_prototype.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/4_javascript_class/08_oop/01_prototype.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/4_javascript_class/08_oop/02_inherit.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/4_javascript_class/08_oop/02_inherit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/4_javascript_class/09_closure/01_functionReturn.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/4_javascript_class/09_closure/01_functionReturn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/4_javascript_class/09_closure/02_callbackFunction.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/4_javascript_class/09_closure/02_callbackFunction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/4_javascript_class/09_closure/03_closure.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/4_javascript_class/09_closure/03_closure.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/4_javascript_class/10_integrated_class/1_audio.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/4_javascript_class/10_integrated_class/1_audio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/4_javascript_class/10_integrated_class/2_video_canvas.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/4_javascript_class/10_integrated_class/2_video_canvas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/4_javascript_class/99_practice/1_travel_agency/travel.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/4_javascript_class/99_practice/1_travel_agency/travel.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,94 +44,104 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="DockManager">
-    <window id="2">
+    <window id="1">
       <content type="file-editors">
         <state>
-          <splitter split-orientation="vertical" split-proportion="0.31626847">
-            <split-first>
-              <leaf>
-                <file pinned="false" current-in-tab="false">
-                  <entry file="file://$PROJECT_DIR$/web/4_javascript_class/04_window/4_iframe.html">
-                    <provider selected="true" editor-type-id="text-editor">
-                      <state relative-caret-position="221">
-                        <caret line="13" selection-start-line="13" selection-end-line="14" />
-                      </state>
-                    </provider>
-                  </entry>
-                </file>
-                <file pinned="false" current-in-tab="false">
-                  <entry file="file://$PROJECT_DIR$/web/4_javascript_class/04_window/4_sub.html">
-                    <provider selected="true" editor-type-id="text-editor">
-                      <state relative-caret-position="340">
-                        <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-                      </state>
-                    </provider>
-                  </entry>
-                </file>
-                <file pinned="false" current-in-tab="true">
-                  <entry file="file://$PROJECT_DIR$/web/4_javascript_class/99_practice/2_menupan/style.css">
-                    <provider selected="true" editor-type-id="text-editor">
-                      <state relative-caret-position="195">
-                        <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-                      </state>
-                    </provider>
-                  </entry>
-                </file>
-              </leaf>
-            </split-first>
-            <split-second>
-              <leaf>
-                <file pinned="false" current-in-tab="true">
-                  <entry file="file://$PROJECT_DIR$/web/4_javascript_class/99_practice/2_menupan/script.js">
-                    <provider selected="true" editor-type-id="text-editor">
-                      <state relative-caret-position="159">
-                        <caret line="17" column="48" lean-forward="true" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-                      </state>
-                    </provider>
-                  </entry>
-                </file>
-              </leaf>
-            </split-second>
-          </splitter>
+          <leaf>
+            <file pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/web/5_jquery_class/1_css_event/jquery_test.html">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="114">
+                    <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/web/5_jquery_class/2_scroll_topmenu/jquery_test.html">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="104">
+                    <caret line="31" column="54" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/web/5_jquery_class/3_accordion/jquery_test.html">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="476">
+                    <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/web/5_jquery_class/4_tabs/jquery_test.html">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="459">
+                    <caret line="27" column="54" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/web/5_jquery_class/4_tabs/css/styles.css">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="608">
+                    <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/web/5_jquery_class/9_plugin/1_animate/jquery_test.html">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="170">
+                    <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/web/5_jquery_class/9_plugin/2_tabs/jquery_test.html">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="185">
+                    <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/web/5_jquery_class/9_plugin/3_accordion/jquery_test.html">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="68">
+                    <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/web/5_jquery_class/9_plugin/4_form/jquery_test.html">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="561">
+                    <caret line="33" column="67" lean-forward="true" selection-start-line="33" selection-start-column="67" selection-end-line="33" selection-end-column="67" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
         </state>
       </content>
     </window>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/4_javascript_class/04_window/5_iframe_연습.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
-              <caret line="64" column="7" lean-forward="true" selection-start-line="64" selection-start-column="7" selection-end-line="64" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/4_javascript_class/99_practice/2_menupan/menu.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="26" column="40" lean-forward="true" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/4_javascript_class/99_practice/2_menupan/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="40" column="55" selection-start-line="40" selection-start-column="55" selection-end-line="40" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -113,6 +149,8 @@
     <findStrings>
       <find>about</find>
       <find>date</find>
+      <find>titleText</find>
+      <find>info</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -127,57 +165,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/web/2_css_class/00_selector확인.html" />
-        <option value="$PROJECT_DIR$/web/2_css_class/01_html5_section.html" />
-        <option value="$PROJECT_DIR$/web/2_css_class/02_html5_list.html" />
-        <option value="$PROJECT_DIR$/web/2_css_class/03_html5_text.html" />
-        <option value="$PROJECT_DIR$/web/2_css_class/04_html5_span.html" />
-        <option value="$PROJECT_DIR$/web/2_css_class/05_html5_table.html" />
-        <option value="$PROJECT_DIR$/web/2_css_class/06_html5_form.html" />
-        <option value="$PROJECT_DIR$/web/2_css_class/08_display.html" />
-        <option value="$PROJECT_DIR$/web/2_css_class/08_posi_absolute.html" />
-        <option value="$PROJECT_DIR$/web/2_css_class/css/myform.css" />
-        <option value="$PROJECT_DIR$/web/2_css_class/08_posi_relative.html" />
-        <option value="$PROJECT_DIR$/web/2_css_class/08_scroll.html" />
-        <option value="$PROJECT_DIR$/web/2_css_class/08_zindex.html" />
-        <option value="$PROJECT_DIR$/web/2_css_class/10_transition.html" />
-        <option value="$PROJECT_DIR$/web/3_bootstrap_sample/index.html" />
-        <option value="$PROJECT_DIR$/web/3_bootstrap_sample/css/bootstrap.min.css" />
-        <option value="$PROJECT_DIR$/web/3_bootstrap_class/Ex02_button.html" />
-        <option value="$PROJECT_DIR$/web/3_bootstrap_class/Ex04_grid_2.html" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/00_basic/2_operator.html" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/00_basic/1_datatype.html" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/00_basic/3_for.html" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/00_basic/3_for_2.html" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/00_basic/4_string.html" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/00_basic/5_array.html" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/00_basic/06_date.html" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/00_basic/6_date_연습.html" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/00_basic/7_regexp.html" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/00_basic/08_형변환.html" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/01_event_handler/index" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/01_event_handler/1_event_called.html" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/01_event_handler/2_event_handler.html" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/01_event_handler/3_event_listener.html" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/02_document/1_documentOpen.html" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/02_document/2_documentColor.html" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/00_basic/99_hw.html" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/00_basic/6_date.html" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/99_practice/99_hw.html" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/03_dialog/alert_test.html" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/04_window/1_location_href.html" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/04_window/2_window_location.html" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/04_window/3_1_window_opener.html" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/04_window/3_2_window_opened.html" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/04_window/9_1_main.html" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/04_window/4_iframe.html" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/04_window/4_sub.html" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/04_window/9_2_sub.html" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/04_window/5_sub.html" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/04_window/5_iframe_연습.html" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/99_practice/2_menupan/style.css" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/99_practice/2_menupan/menu.html" />
-        <option value="$PROJECT_DIR$/web/4_javascript_class/99_practice/2_menupan/script.js" />
+        <option value="$PROJECT_DIR$/web/4_javascript_class/05_form/1_form_var.html" />
+        <option value="$PROJECT_DIR$/web/4_javascript_class/05_form/1_form_check.html" />
+        <option value="$PROJECT_DIR$/web/4_javascript_class/06_dom/0_sample.html" />
+        <option value="$PROJECT_DIR$/web/4_javascript_class/06_dom/1_sample.html" />
+        <option value="$PROJECT_DIR$/web/4_javascript_class/99_practice/1_travel_agency/travel.html" />
+        <option value="$PROJECT_DIR$/web/4_javascript_class/05_form/js/formCheck.js" />
+        <option value="$PROJECT_DIR$/web/4_javascript_class/99_practice/1_travel_agency/travel.js" />
+        <option value="$PROJECT_DIR$/web/4_javascript_class/06_dom/2_sample.html" />
+        <option value="$PROJECT_DIR$/web/4_javascript_class/07_function/01_kinds_of_func.html" />
+        <option value="$PROJECT_DIR$/web/4_javascript_class/07_function/03_agument.html" />
+        <option value="$PROJECT_DIR$/web/4_javascript_class/07_function/04_js_valuable.html" />
+        <option value="$PROJECT_DIR$/web/4_javascript_class/07_function/05_js_parameter.html" />
+        <option value="$PROJECT_DIR$/web/4_javascript_class/07_function/06_function_arg.html" />
+        <option value="$PROJECT_DIR$/web/4_javascript_class/07_function/06_function_arg2.html" />
+        <option value="$PROJECT_DIR$/web/4_javascript_class/07_function/09_progress.html" />
+        <option value="$PROJECT_DIR$/web/4_javascript_class/08_oop/00_object.html" />
+        <option value="$PROJECT_DIR$/web/4_javascript_class/08_oop/01_prototype.html" />
+        <option value="$PROJECT_DIR$/web/4_javascript_class/08_oop/02_inherit.html" />
+        <option value="$PROJECT_DIR$/web/4_javascript_class/09_closure/01_functionReturn.html" />
+        <option value="$PROJECT_DIR$/web/4_javascript_class/09_closure/02_callbackFunction.html" />
+        <option value="$PROJECT_DIR$/web/4_javascript_class/09_closure/03_closure.html" />
+        <option value="$PROJECT_DIR$/web/4_javascript_class/10_integrated_class/1_audio.html" />
+        <option value="$PROJECT_DIR$/web/4_javascript_class/10_integrated_class/2_video_canvas.html" />
+        <option value="$PROJECT_DIR$/web/4_javascript_class/07_function/00_kinds_of_func.html" />
+        <option value="$PROJECT_DIR$/web/5_jquery_class/0_basic/0_basic.html" />
+        <option value="$PROJECT_DIR$/web/5_jquery_class/0_basic/2_jqueryBasic.html" />
+        <option value="$PROJECT_DIR$/web/5_jquery_class/0_basic/4_jqueryEvent.html" />
+        <option value="$PROJECT_DIR$/web/5_jquery_class/0_basic/3_jqueryFilter.html" />
+        <option value="$PROJECT_DIR$/web/5_jquery_class/1_menuPan과제/menu.html" />
+        <option value="$PROJECT_DIR$/web/5_jquery_class/1_css_event/jquery_test.html" />
+        <option value="$PROJECT_DIR$/web/5_jquery_class/1_css_event/jquery.js" />
+        <option value="$PROJECT_DIR$/web/5_jquery_class/1_css_event_2/js/jquery.js" />
+        <option value="$PROJECT_DIR$/web/5_jquery_class/2_scroll_topmenu/js/jquery.js" />
+        <option value="$PROJECT_DIR$/web/5_jquery_class/3_accordion/jquery_test.html" />
+        <option value="$PROJECT_DIR$/web/5_jquery_class/3_accordion/js/jquery.js" />
+        <option value="$PROJECT_DIR$/web/5_jquery_class/4_tabs/js/scripts.js" />
+        <option value="$PROJECT_DIR$/web/5_jquery_class/9_plugin/0_basic/js/jquery.red.js" />
+        <option value="$PROJECT_DIR$/web/5_jquery_class/9_plugin/0_basic/jquery_test.html" />
+        <option value="$PROJECT_DIR$/web/5_jquery_class/9_plugin/1_animate/js/jquery.js" />
+        <option value="$PROJECT_DIR$/web/5_jquery_class/9_plugin/1_animate/jquery_test.html" />
+        <option value="$PROJECT_DIR$/web/5_jquery_class/9_plugin/0_basic/js/jquery-1.11.1.js" />
+        <option value="$PROJECT_DIR$/web/5_jquery_class/9_plugin/3_accordion/js/jquery-ui-1.10.0.custom.min.js" />
+        <option value="$PROJECT_DIR$/web/5_jquery_class/9_plugin/2_tabs/jquery_test.html" />
+        <option value="$PROJECT_DIR$/web/5_jquery_class/9_plugin/2_tabs/js/jquery.js" />
+        <option value="$PROJECT_DIR$/web/5_jquery_class/9_plugin/3_accordion/jquery_test.html" />
+        <option value="$PROJECT_DIR$/web/5_jquery_class/9_plugin/3_accordion/js/scripts.js" />
+        <option value="$PROJECT_DIR$/web/5_jquery_class/lib/jquery-2.0.1.min.js" />
+        <option value="$PROJECT_DIR$/web/5_jquery_class/9_plugin/4_form/jquery_test.html" />
+        <option value="$PROJECT_DIR$/web/5_jquery_class/4_tabs/js/jquery-3.4.1.js" />
+        <option value="$PROJECT_DIR$/web/5_jquery_class/4_tabs/jquery_test.html" />
+        <option value="$PROJECT_DIR$/web/5_jquery_class/9_plugin/4_form/js/scripts.js" />
       </list>
     </option>
   </component>
@@ -214,8 +252,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -232,83 +270,100 @@
               <item name="WebUI" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebUI" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="4_javascript_class" type="462c0819:PsiDirectoryNode" />
+              <item name="3_bootstrap_class" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebUI" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="3_bootstrap_sample" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebUI" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebUI" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="4_javascript_class" type="462c0819:PsiDirectoryNode" />
-              <item name="00_basic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebUI" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebUI" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="4_javascript_class" type="462c0819:PsiDirectoryNode" />
-              <item name="01_event_handler" type="462c0819:PsiDirectoryNode" />
+              <item name="5_jquery_class" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebUI" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebUI" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="4_javascript_class" type="462c0819:PsiDirectoryNode" />
-              <item name="02_document" type="462c0819:PsiDirectoryNode" />
+              <item name="5_jquery_class" type="462c0819:PsiDirectoryNode" />
+              <item name="0_basic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebUI" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebUI" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="4_javascript_class" type="462c0819:PsiDirectoryNode" />
-              <item name="03_dialog" type="462c0819:PsiDirectoryNode" />
+              <item name="5_jquery_class" type="462c0819:PsiDirectoryNode" />
+              <item name="1_css_event" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebUI" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebUI" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="4_javascript_class" type="462c0819:PsiDirectoryNode" />
-              <item name="04_window" type="462c0819:PsiDirectoryNode" />
+              <item name="5_jquery_class" type="462c0819:PsiDirectoryNode" />
+              <item name="1_menuPan과제" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebUI" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebUI" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="4_javascript_class" type="462c0819:PsiDirectoryNode" />
-              <item name="05_form" type="462c0819:PsiDirectoryNode" />
+              <item name="5_jquery_class" type="462c0819:PsiDirectoryNode" />
+              <item name="4_tabs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebUI" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebUI" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="4_javascript_class" type="462c0819:PsiDirectoryNode" />
-              <item name="09_closure" type="462c0819:PsiDirectoryNode" />
+              <item name="5_jquery_class" type="462c0819:PsiDirectoryNode" />
+              <item name="4_tabs" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebUI" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebUI" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="4_javascript_class" type="462c0819:PsiDirectoryNode" />
-              <item name="99_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="5_jquery_class" type="462c0819:PsiDirectoryNode" />
+              <item name="9_plugin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebUI" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebUI" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="4_javascript_class" type="462c0819:PsiDirectoryNode" />
-              <item name="99_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="1_travel_agency" type="462c0819:PsiDirectoryNode" />
+              <item name="5_jquery_class" type="462c0819:PsiDirectoryNode" />
+              <item name="9_plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="3_accordion" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebUI" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebUI" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="4_javascript_class" type="462c0819:PsiDirectoryNode" />
-              <item name="99_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="2_menupan" type="462c0819:PsiDirectoryNode" />
+              <item name="5_jquery_class" type="462c0819:PsiDirectoryNode" />
+              <item name="9_plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="4_form" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebUI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="WebUI" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="5_jquery_class" type="462c0819:PsiDirectoryNode" />
+              <item name="9_plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="4_form" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebUI" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="5_jquery_class" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -319,23 +374,27 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/5_jquery_class/4_tabs/js" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/5_jquery_class/4_tabs/js" />
+      <recent name="$PROJECT_DIR$/web/5_jquery_class/lib" />
       <recent name="$PROJECT_DIR$/web" />
+      <recent name="$PROJECT_DIR$/web/4_javascript_class/05_form" />
       <recent name="$PROJECT_DIR$/web/2_css_class" />
-      <recent name="$PROJECT_DIR$/web/1_html5_class" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/5_jquery_class/lib" />
       <recent name="$PROJECT_DIR$/web/4_javascript_class/99_practice" />
       <recent name="$PROJECT_DIR$/web" />
     </key>
@@ -442,11 +501,15 @@
       <workItem from="1559291700542" duration="22043000" />
       <workItem from="1559556332386" duration="313000" />
       <workItem from="1559609792047" duration="20682000" />
+      <workItem from="1559695417657" duration="25021000" />
+      <workItem from="1560132703062" duration="30000" />
+      <workItem from="1560132750054" duration="15974000" />
+      <workItem from="1560213982008" duration="41393000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77516000" />
+    <option name="totallyTimeSpent" value="159934000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -458,8 +521,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="971" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1680" height="971" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.62308997" visible="true" weight="0.16845238" />
       <window_info id="Structure" order="1" sideWeight="0.37691003" side_tool="true" weight="0.17277168" />
@@ -470,12 +532,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" sideWeight="0.37691003" side_tool="true" weight="0.17277168" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32992035" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.20222223" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3288889" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.32222223" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.18888889" />
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32992035" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32992035" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
@@ -494,28 +556,29 @@
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="SciView" order="10" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8304892" visible="true" weight="0.17277168" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.62308997" visible="true" weight="0.16845238" />
+      <window_info id="Structure" order="1" sideWeight="0.37691003" side_tool="true" weight="0.17277168" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" sideWeight="0.16951081" side_tool="true" visible="true" weight="0.17277168" />
+      <window_info id="Web" order="7" sideWeight="0.37691003" side_tool="true" weight="0.17277168" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32992035" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3288889" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32992035" />
-      <window_info anchor="bottom" id="Application Servers" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.18888889" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32992035" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32992035" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32992035" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="Messages" order="14" />
@@ -529,330 +592,357 @@
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="SciView" order="10" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+        <watch expression="name" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>name</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/3_bootstrap_sample/contact.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/3_bootstrap_sample/portfolio.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex99_googlemap.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex08_nav_sample.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex08_dropdown.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/06_dom/0_sample.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex06_glyphicons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
-          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex05_form.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex04_grid_2.html">
+    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/11_dragndrop/js/2_events.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex04_grid_1.html">
+    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/07_function/03_agument.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-120">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        <state relative-caret-position="442">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex02_button.html">
+    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/09_closure/01_functionReturn.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+        <state relative-caret-position="459">
+          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex01_start.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex00_sample.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/js/npm.js">
+    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/07_function/js/arg_func.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        <state relative-caret-position="238">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/00_basic/1_datatype.html">
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/0_basic/2_jqueryBasic.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        <state relative-caret-position="348">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/00_basic/2_operator.html">
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/0_basic/3_jqueryFilter.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="230">
+          <caret line="59" column="31" lean-forward="true" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/00_basic/7_regexp.html">
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/0_basic/4_jqueryEvent.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        <state relative-caret-position="263">
+          <caret line="54" column="28" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/00_basic/8_형변환.html">
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/0_basic/0_basic.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="385">
+          <caret line="53" column="37" lean-forward="true" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/02_document/2_documentColor.html">
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/lib/jquery-3.4.1.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="77" lean-forward="true" selection-start-line="8" selection-start-column="77" selection-end-line="8" selection-end-column="77" />
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/02_document/1_documentOpen.html">
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/lib/jquery-1.9.1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+        <state relative-caret-position="544">
+          <caret line="44" selection-start-line="17" selection-start-column="62" selection-end-line="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/01_event_handler/3_event_listener.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/01_event_handler/1_event_called.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/01_event_handler/2_event_handler.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/01_event_handler/index">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/99_practice/0_member.png">
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/1_css_event/imgs/grim.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/00_basic/5_array.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/00_basic/4_string.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="40" selection-start-line="7" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/00_basic/3_for.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/00_basic/6_date_연습.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/00_basic/6_date.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/00_basic/3_for_2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/99_practice/99_hw.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/04_window/2_window_location.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
-          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/04_window/1_location_href.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="61" lean-forward="true" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/03_dialog/alert_test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="17439" column="12" selection-start-line="17439" selection-start-column="12" selection-end-line="17439" selection-end-column="12" />
+        <state relative-caret-position="195">
+          <caret line="6199" column="4" selection-start-line="6199" selection-start-column="4" selection-end-line="6199" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/07_function/09_progress.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/04_window/3_2_window_opened.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/04_window/3_1_window_opener.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/04_window/9_4_execise2.png">
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/1_css_event_2/imgs/bg.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/04_window/9_3_execise.png">
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/1_css_event_2/imgs/menu01_off.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/04_window/9_1_main.html">
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/1_css_event_2/imgs/menu01_on.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/1_css_event_2/imgs/menu02_off.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/1_css_event_2/imgs/menu02_on.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/1_css_event_2/imgs/menu03_off.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/1_css_event_2/imgs/menu03_on.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/1_css_event/jquery_test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="114">
+          <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/04_window/9_2_sub.html">
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/1_css_event/base.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/1_css_event/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        <state relative-caret-position="419">
+          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/04_window/4_iframe.html">
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/1_css_event_3/Example.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="14" />
+        <state relative-caret-position="289">
+          <caret line="17" column="60" lean-forward="true" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/04_window/5_sub.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/04_window/4_sub.html">
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/1_css_event_2/js/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/04_window/5_iframe_연습.html">
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/3_accordion/js/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="64" column="7" lean-forward="true" selection-start-line="64" selection-start-column="7" selection-end-line="64" selection-end-column="7" />
+        <state relative-caret-position="255">
+          <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/99_practice/2_menupan/style.css">
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/4_tabs/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="608">
+          <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/99_practice/2_menupan/script.js">
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/2_scroll_topmenu/jquery_test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="40" column="55" selection-start-line="40" selection-start-column="55" selection-end-line="40" selection-end-column="55" />
+        <state relative-caret-position="104">
+          <caret line="31" column="54" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/4_javascript_class/99_practice/2_menupan/menu.html">
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/2_scroll_topmenu/js/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="26" column="40" lean-forward="true" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+        <state relative-caret-position="119">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/9_plugin/0_basic/js/jquery.red.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/3_accordion/jquery_test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/9_plugin/0_basic/jquery_test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/1_css_event_2/jquery_test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/9_plugin/2_tabs/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/9_plugin/2_tabs/css/jquery-ui-1.7.2.custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="212" column="13" selection-start-line="212" selection-start-column="9" selection-end-line="212" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/9_plugin/3_accordion/js/jquery-ui-1.10.0.custom.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="1866" column="3" selection-start-line="1866" selection-start-column="3" selection-end-line="1866" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/lib/jquery-2.0.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-35782">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/4_tabs/jquery_test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="54" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/9_plugin/4_form/jquery_test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="67" lean-forward="true" selection-start-line="33" selection-start-column="67" selection-end-line="33" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/9_plugin/3_accordion/jquery_test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/9_plugin/2_tabs/jquery_test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/9_plugin/1_animate/jquery_test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/1_menuPan과제/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="63" lean-forward="true" selection-start-line="38" selection-start-column="63" selection-end-line="38" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/9_plugin/4_form/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="737">
+          <caret line="51" column="12" lean-forward="true" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/9_plugin/3_accordion/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/9_plugin/2_tabs/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/9_plugin/0_basic/js/jquery-1.11.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="41" lean-forward="true" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/9_plugin/1_animate/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/9_plugin/1_animate/js/jquery.easing.1.3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/4_tabs/js/jquery-3.4.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="38" column="41" lean-forward="true" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/4_tabs/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/9_plugin/4_form/js/jquery.validate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-55">
+          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

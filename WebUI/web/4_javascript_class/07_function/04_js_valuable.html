@@ -4,6 +4,83 @@
 	<meta charset="UTF-8">
 	<title>자바스크립트 변수와 범위</title>
 	<script>
+		// 1. 글로벌 변수와 지역변수
+		var scope = '글로벌 변수';
+
+		function getValue() {
+			var scope = '지역 변수';
+			return scope;
+		}
+
+		document.write("1 : " + getValue() + "<br>"); // 지역 변수
+		document.write("2 : " + scope + "<br>"); // 글로벌 변수
+
+		// 2. var 생력 가능 : 글로변 변수
+		scope2 = '글로벌 변수';
+
+		function getValue2() {
+			document.write("0 : " + scope2 + "<br>"); // 글로벌 변수
+			scope2 = '지역 변수';
+			return scope2;
+		}
+
+		document.write("1 : " + getValue2() + "<br>"); // 글로벌 변수
+		document.write("2 : " + scope2 + "<br>"); // 지역 변수
+
+		// 2-1. var 붙이면
+		scope3 = '글로벌 변수';
+
+		function getValue3() {
+			document.write("0 : " + scope3 + "<br>"); // undefined
+			var scope3 = '지역 변수';
+			return scope3;
+		}
+
+		document.write("1 : " + getValue3() + "<br>"); // 지역 변수
+		document.write("2 : " + scope3 + "<br>"); // 글로벌 변수
+
+		// 3. 지역 변수 범위 - 다른 언어와는 조금 다름. 함수 블록 안에서만 지역 변수 선언됨
+		// 보통 언어 같으면 if 문 안에 선언된 i 는 지역 변수였겠지만, 자바스크립트는 아니다!!
+		if(true) {
+			var i = 100;
+		}
+		document.write("i : " + i + "<br>"); // 100, 잘 나온다.
+
+		// 그렇다면 함수 내에서 선언해보자
+		// function test() {
+		// 	var j = 100;
+		// }
+		// test();
+		// document.write("j : " + j + "<br>");
+		// 에러 나옴, ReferenceError: j is not defined
+
+		// for 문에서 선언한 것도 전역 변수 !?
+		for (var k=0; k<3; k++) {
+
+		}
+		var k = 10;
+		var k = 100;
+		document.write("k : " + k + "<br>"); // k : 100
+		// 변수를 중복 선언해도 그냥 덮어진다!!
+
+
+		// 호이스팅 hoisting - 변수가 자신이 속한 블록 안에 있지 않고 밖으로 끌어올려지는 현상
+		function doA(num) {
+			document.write("before : " + value + "<br>");  // before : undefined
+			if(num%10 === 0 ) {
+				var value = true;
+			}
+			document.write("after : " + value + "<br>"); // after : true
+		}
+		doA(10);
+
+		/**
+		 * ECMA Script 6 (ES6) 권장
+		 *
+		 * var 범위에 대한 문제들이 위에 처럼 존재
+		 * var 사용 자제 >> let 사용 권장
+		 *
+		 * */
 
 	</script>
 </head>

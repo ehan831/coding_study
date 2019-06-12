@@ -1,29 +1,52 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-<meta charset="UTF-8">
-<title> 폼 예제 3 </title>
-<script type="text/javascript">
-<!--
+    <meta charset="UTF-8">
+    <title> 폼 예제 3 </title>
+    <script type="text/javascript">
+        <!--
+        window.onload = function () {
+            document.getElementById("btn").onclick = function () {
 
-//-->
-</script>
+                if (!document.frm1.y && !document.frm1.m && !document.frm1.d ) {
+
+                    var myDate = new Date();
+                    myDate.setFullYear(document.frm1.y.value);
+                    myDate.setMonth(document.frm1.m.value) - 1;
+                    myDate.setDate(document.frm1.d.value);
+                    alert(document.frm1.y.value);
+                    // alert(myDate);
+
+                    var weeks = ['일', '월', '화', '수', '목', '금', '토'];
+                    document.frm1.w.value = weeks[myDate.getDay()];
+                }
+                else alert("년,월,일을 입력해주세요.");
+            }
+        }
+        //-->
+    </script>
 </head>
 <body>
 
-<hr><hr>
+<hr>
+<hr>
 
 요일을 알아봅시다. <br>
 
 <form name="frm1">
-	<input type="text" name="y" size=4>년 
-	<input type="text" name="m" size=2>월
-	<input type="text" name="d" size=2>일
-	<input type="button" value="☞" >
-	<input type="text" name="w" size=4>요일입니다.
+    <input type="text" name="y" size=4>년
+    <input type="text" name="m" size=2>월
+    <input type="text" name="d" size=2>일
+    <input type="button" id="btn" value="버튼" style="color: #FFFFFF; font-size: 20px; background: mediumblue">
+    <br>
+    <br>
+
+    <input type="text" name="w" size=4 disabled
+           style="background: gray; font-size: 20px; color: honeydew; text-align: center">요일입니다.
 </form>
 
-<hr><hr>
+<hr>
+<hr>
 
 
 </body>

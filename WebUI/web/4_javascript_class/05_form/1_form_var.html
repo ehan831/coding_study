@@ -1,19 +1,33 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title></title>
-<script type="text/javascript">
+    <meta charset="UTF-8">
+    <title></title>
+    <script type="text/javascript">
 
-</script>
+        window.onload = function () {
+            // 둘 다 동일한 방법
+            document.myForm.txt0.value = 'aaa';
+            document.myForm['txt1'].value = 'bbb';
+
+            // 네 곳의 input 태그에 'data' 글씨를 지정
+            document.getElementById('btn').onclick = function () {
+                // alert('aaa');
+                for(var i=0; i<4; i++) {
+                    document.myForm['txt'+ i].value = 'date';
+                }
+            }
+        }
+
+    </script>
 </head>
 <body>
-	<form name='myForm'>
-		첫번째 :  <input type='text' name='txt0'><br/>
-		두번째 :  <input type='text' name='txt1'><br/>
-		세번째 :  <input type='text' name='txt2'><br/>
-		네번째 :  <input type='text' name='txt3'><br/>
-		<input type='button' value='값지정'  id='btn'>
-	</form>
+<form name='myForm'>
+    첫번째 : <input type='text' name='txt0'><br/>
+    두번째 : <input type='text' name='txt1'><br/>
+    세번째 : <input type='text' name='txt2'><br/>
+    네번째 : <input type='text' name='txt3'><br/>
+    <input type='button' value='값지정' id='btn'>
+</form>
 </body>
 </html>

@@ -13,7 +13,12 @@
 <script>
 	var progress = document.getElementById("progress");
 	var current = 0;
-	
+
+	/**
+	 * setTimeout(func, time) : time 지난 후에 한 번 func 함수를 실행
+	 * setInterval(func, time) : 매 time 마다 func 함수를 실행
+	 * */
+
 	var intervalId = setInterval(updateProgress, 100);
 	
 	function updateProgress(){
@@ -22,7 +27,5 @@
 			clearInterval(intervalId);
 		}
 	}
-
-
 </script>
 </html>

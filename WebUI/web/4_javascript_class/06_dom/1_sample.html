@@ -1,25 +1,52 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>DOM에서 노드 검색 방법</title>
-<script type="text/javascript">
-  </script>
+    <meta charset="UTF-8">
+    <title>DOM에서 노드 검색 방법</title>
+    <script type="text/javascript">
+        window.onload = function () {
+            document.getElementById('btn').onclick = function () {
+                // alert('aaa');
+                var result = document.getElementById('result');
+
+                // 1. id 로 얻어오기
+                // var name = document.getElementById('name');
+                // result.innerHTML = name.value + " 님 반갑습니다.";
+
+                // 2. classname 으로 얻어오기
+                // var name = document.getElementsByClassName('cname');
+                // result.innerHTML = name[0].value + " 님 반갑습니다."; // getElements << 복수형. 배열로 넘어옴
+
+                // 3. tag name 으로 얻어오기
+                // var name = document.getElementsByTagName('input');
+                // result.innerHTML = name[0].value + " 님 반갑습니다.";
+
+                // 4. form 에서 얻어오기
+                var name = document.fm.name;
+                result.innerHTML = name.value + " 님 안녕하세여.";
+
+                // 5. 모바일 느낌
+                // var name = document.querySelector(#name);
+                // var name = document.querySelectorAll('.cname');
+            }
+        }
+    </script>
 </head>
 
 <body>
-	<!-- 1 -->
-	<form name="fm">
-		<label id="label"> 
-		이름 : <input type="text" id="name"	class="cname" name="name" size="15" /> 
-		
-		<!-- 2 --> 
-		학과 : <input	type="text" id="dept" name="dept" size="15" /> 
-		학교 : <input	type="text" id="univ" name="univ" size="15" />
-		</label>
-		
-		 <input id="btn" type="button" value="버튼" />
-		<div id="result"></div>
-	</form>
+<!-- 1 -->
+<form name="fm">
+    <label id="label">
+        이름 : <input type="text" id="name" class="cname" name="name" size="15"/>
+
+        <!-- 2 -->
+        학과 : <input type="text" id="dept" name="dept" size="15"/>
+        학교 : <input type="text" id="univ" name="univ" size="15"/>
+    </label>
+
+    <input id="btn" type="button" value="버튼"/>
+    <br>
+    <div id="result" style="border: 2px solid crimson; width:440px;"></div>
+</form>
 </body>
 </html>

@@ -1,15 +1,39 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	<meta charset="UTF-8">
-	<title> 파라메터 인자</title>
-	<script>
+    <meta charset="UTF-8">
+    <title> 파라메터 인자</title>
+    <script>
+        // 1. 기본형 인자 (call by value)
 
-	</script>
+        var pri = 10;
+
+        function preParam(pri) {
+            pri--;
+            return pri;
+        }
+
+        document.write('1 : ' + preParam(pri) + "<br>"); // 9
+        document.write('2 : ' + pri + "<br>"); // 10
+        // 원본에 영향을 미치지 않음.
+
+        // 2. 참조형 인자 ( call by reference )
+        var ref = [1,2,3,4,5];
+
+        function refParam(ref) {
+        ref.pop();
+        return ref;
+        }
+
+        document.write('1 : ' + refParam(ref) + "<br>"); // 1,2,3,4
+        document.write('2 : ' + ref + "<br>"); // 1,2,3,4
+        // call by reference 는 원본에 영향을 미친다.
+
+    </script>
 </head>
 
 <body>
 
-  
- </body>
+
+</body>
 </html>
