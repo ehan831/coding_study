@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/WebUI.iml" filepath="$PROJECT_DIR$/WebUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jsp/jsp.iml" filepath="$PROJECT_DIR$/../jsp/jsp.iml" />
     </modules>
   </component>
 </project>
