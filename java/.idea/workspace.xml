@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a29e278-4c57-4a13-95fc-5c4f544d1ad6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../WebUI/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebUI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebUI/WebUI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/WebUI.iml" afterDir="false" />
-    </list>
+    <list default="true" id="8a29e278-4c57-4a13-95fc-5c4f544d1ad6" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +16,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -125,10 +121,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1823" />
-    <option name="y" value="194" />
-    <option name="width" value="1680" />
-    <option name="height" value="971" />
+    <option name="x" value="210" />
+    <option name="y" value="144" />
+    <option name="width" value="1260" />
+    <option name="height" value="729" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -141,6 +137,10 @@
       <pane id="ProjectPane">
         <subPane>
           <expand>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
             <path>
               <item name="java" type="b2602c69:ProjectViewProjectNode" />
               <item name="JDBC" type="462c0819:PsiDirectoryNode" />
@@ -377,16 +377,17 @@
       <workItem from="1559029688669" duration="3000" />
       <workItem from="1559281517646" duration="1409000" />
       <workItem from="1560478500476" duration="1846000" />
+      <workItem from="1560586303438" duration="1000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="248896000" />
+    <option name="totallyTimeSpent" value="248897000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1823" y="194" width="1680" height="971" extended-state="0" />
+    <frame x="210" y="144" width="1260" height="729" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34464285" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34444445" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
