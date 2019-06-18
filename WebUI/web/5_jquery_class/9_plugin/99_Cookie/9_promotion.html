@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>광고페이지</title>
+    <script type="text/javascript" src='js/jquery-3.4.1.js'></script>
+    <script type="text/javascript" src="js/jquery.cookie.js"></script>
+
+    <script type="text/javascript">
+        $(function () {
+                <!--    체크 박스 선택하고 닫기 눌러지면 쿠키 설정 -->
+                $('#closeWin').click(function () {
+                    // alert($('#checkbox').prop('checked')); // true, false
+
+                    $.cookie('check', $('#checkbox').prop('checked'), {expires: 1}); // 1일 뒤 만료, 클릭 시, 체크 정보 저장
+                    window.close(); // 닫기
+                }); // body click end
+
+            <!--    지정된 쿠키 값 얻어오기, 해당 값이 없을 때만 창 띄우기 -->
+
+        }); // f end
+    </script>
+</head>
+<body>
+<img alt="" src="./images/image.jpg"><br/>
+이 페이지를 3분간 열지 않겠습니다.
+<input type="checkbox" id="checkbox">
+<input type='button' id='closeWin' name='closeWin' value='닫기'/>
+</body>
+</html>

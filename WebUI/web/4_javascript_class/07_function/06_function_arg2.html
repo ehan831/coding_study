@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>06_function_arg2.html</title>
+
+    <script type="text/javascript">
+        // 1. 함수 이름이 다른 함수의 인자가 될 수 있다.
+        function prt(key, value) {
+            document.write(key + " : " + value + "<br>");
+        }
+
+        function arrayWalk(data, f) {
+            for (var key in data) {
+                f(key, data[key]); // prt 함수 호출
+            }
+        }
+
+        var ary = ["a", "b", "c", "d", "e"];
+        arrayWalk(ary, prt);
+
+        // 결과는 다음과 같다
+        /**
+         0 : a
+         1 : b
+         2 : c
+         3 : d
+         4 : e
+         */
+
+        // 2. 함수 자체가 다른 함수의 인자가 될 수 있다. 1번에서 생략해보자.
+        function arrayWalk2(data, f) {
+            for (var key in data) {
+                f(key, data[key]); // prt 함수 호출
+            }
+        }
+
+        var ary2 = ["f", "g", "h", "i", "j"];
+        arrayWalk2(ary2, function (key, value) {
+            document.write(key + " : " + value + "<br>");
+        });
+    </script>
+</head>
+<body>
+
+</body>
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>00_object.html</title>
+</head>
+<script type="text/javascript">
+
+    /**
+     * 객체 리터럴
+     *
+     * 장점 : 별도의 클래스 선언 같은 것이 없음 >> 구성이 자유롭다.
+     * 단점 : 구조가 미리 정의가 없으므로 구조 파악이 어렵고, 재사용이 불가능하다.
+     * */
+
+    // 1.
+    var obj = {};
+    obj.name = '홍길자';
+    obj.age = 23;
+    obj['display'] = function () {
+        return this.name + " 님은 " + this.age + " 세 입니다.";
+    }
+    console.log(obj.display()); // 홍길자 님은 23 세 입니다.
+
+    // 2.
+    var obj2 = {name: '홍길동', age: '33'};
+    obj2.display = function () {
+        return this.name + " 님은 " + this.age + " 세 입니다.";
+    }
+    console.log(obj2.display()); // 홍길동 님은 33 세 입니다.
+
+    // 3.
+    var obj3 = new Object();
+    obj3.name = '홍홍이';
+    obj3['age'] = 44;
+    console.log(obj3);
+
+    var out = '';
+    out += "이름 : " + obj3['name'] + "<br>";
+    out += "나이 : " + obj3.age + "<br>";
+    document.write(out);
+
+    var out2 = '';
+    with (obj3) {
+        out2 += "이름 : " + name + "<br>";
+        out2 += "나이 : " + age + "<br>";
+    }
+    document.write(out2);
+
+</script>
+<body>
+
+</body>
+</html>

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>0_basic.html</title>
+    <style type="text/css">
+
+    </style>
+    <script type="text/javascript" src="../lib/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript">
+        // 1. $(선택자).동작하기()
+        // $(document).ready(function () { // window.onload 와 같은 기능
+        //     $('#here').hide();
+        // });
+
+        // 2. 제이쿼리 문법 방식
+        // jQuery(function () {
+        //     $('#here').hide();
+        // });
+        //
+        // 3. 축약형
+        // $(function () {
+        //     $('#here').hide();
+        // });
+
+        // $(function () {
+        //     $('#here').click(function () {
+        //         $('#here').text('클릭하면 내용이 변경!!');
+        //     });
+        // });
+
+
+        $(function () {
+            var here = $('#here');
+
+            here.fadeOut(5000);
+            here.slideUp('slow').slideDown(1000);
+            here.animate({top:200, left:400});
+
+            here.click(function () {
+                here.text('클릭하면 내용이 변경2!!');
+            });
+            here.mouseover(function () {
+                here.text('마우스오버');
+            });
+            here.hover(function () {
+                here.css('border', '2px solid blue');
+            }, function () {
+                here.css('border', '2px dashed red');
+            });
+        });
+        //
+        // var std = $('#student');
+        // var n = std.find('#name');
+        // n.css({'background':'black', 'color':'red', 'font-size':'20'});
+
+    </script>
+</head>
+<body>
+<div id="here">
+    화화화요일
+</div>
+<div id="student">
+    제이쿼리 배우는 날
+    <br>
+    <ul id="name">
+        <li>홍길동</li>
+    </ul>
+</div>
+오늘도 화이팅
+</body>
+</html>

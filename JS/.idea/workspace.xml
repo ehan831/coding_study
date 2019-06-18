@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00af2c04-6cc0-4344-88c5-5d736fc51074" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../WebUI/.idea/artifacts/WebUI_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/.idea/artifacts/WebUI_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebUI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/05_form/1_form_check.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/05_form/1_form_check.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/05_form/1_form_var.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/05_form/1_form_var.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/05_form/2_select_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/05_form/2_select_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/05_form/2_select_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/05_form/2_select_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/05_form/3_day.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/05_form/3_day.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/05_form/js/formCheck.js" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/05_form/js/formCheck.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/06_dom/0_sample.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/06_dom/0_sample.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/06_dom/1_sample.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/06_dom/1_sample.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/06_dom/2_sample.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/06_dom/2_sample.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/07_function/00_kinds_of_func.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/07_function/00_kinds_of_func.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/07_function/01_kinds_of_func.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/07_function/01_kinds_of_func.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/07_function/04_js_valuable.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/07_function/04_js_valuable.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/07_function/05_js_parameter.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/07_function/05_js_parameter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/07_function/06_function_arg.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/07_function/06_function_arg.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/07_function/09_progress.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/07_function/09_progress.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/08_oop/01_prototype.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/08_oop/01_prototype.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/08_oop/02_inherit.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/08_oop/02_inherit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/09_closure/01_functionReturn.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/09_closure/01_functionReturn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/09_closure/02_callbackFunction.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/09_closure/02_callbackFunction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/09_closure/03_closure.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/09_closure/03_closure.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/10_integrated_class/1_audio.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/10_integrated_class/1_audio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/10_integrated_class/2_video_canvas.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/10_integrated_class/2_video_canvas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/99_practice/1_travel_agency/travel.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/web/4_javascript_class/99_practice/1_travel_agency/travel.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="139" />
+    <option name="y" value="43" />
+    <option name="width" value="1400" />
+    <option name="height" value="931" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00af2c04-6cc0-4344-88c5-5d736fc51074" name="Default Changelist" comment="" />
+      <created>1559891887580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559891887580</updated>
+      <workItem from="1559891889669" duration="33000" />
+      <workItem from="1560130797929" duration="36000" />
+      <workItem from="1560214257222" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="75000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="139" y="43" width="1400" height="931" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

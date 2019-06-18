@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>jquery event</title>
+
+    <style type="text/css">
+        .bg {
+            background: yellow;
+        }
+
+        .border {
+            border: 3px dotted red;
+        }
+    </style>
+    <script type="text/javascript" src="../lib/jquery-3.4.1.js"></script>
+    <script type="text/javascript">
+
+        /**
+         * bind : 매번 이벤트 연결
+         * one : 한번만 연결
+         * */
+
+        $(function () {
+
+            // 원래의 이벤트 연결 방법 bind !!
+            // $('li').bind('click', function () {
+            //     $('#result').text($(this).text());
+            // });
+
+            // 비슷한 형태로 one 도 있다.
+            // $('li').one('click', function () {
+            //     $('#result').text( $(this).text() );
+            // });
+
+            $('li').click(function (ev) {
+                $('#result').text($(this).text());
+                for (var prop in ev) {
+                    console.log(prop + " : " + ev[prop]);
+                }
+            });
+
+            $('h1').click(function () {
+                var li = $('<li/>').text(new Date());
+                $('ul').append(li);
+            });
+            $('h1').css('cursor', 'pointer');
+
+            // 동적으로 추가된 요소에는 이벤트가 적용되지 않음 > on 쓰기
+            /**
+             * on() : 1.7 이후
+             * live() : 1.7 이전 >> 안쓰임
+             * */
+
+            $('ul').on('click', 'li', function () {
+                $('#result').text( $(this).text() );
+            });
+
+        }); // onload 끝
+    </script>
+</head>
+<body>
+<h1>제이쿼리 이벤트</h1>
+<ul>
+    <li>부에노스 아이레스</li>
+    <li>바르셀로나</li>
+    <li>리마</li>
+    <li>라파스</li>
+</ul>
+<div id="result"></div>
+</body>
+</html>

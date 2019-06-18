@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8"/>
+    <title> 첫 연습 </title>
+
+    <style type="text/css">
+        .active {
+            border: 3px solid violet;
+        }
+    </style>
+    <script type="text/javascript" src="../lib/jquery-3.4.1.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            // 1. man css 적용해보기
+            $('.man').css({'background': 'yellow', 'color': 'blue'});
+
+            // 2. css 와 연결
+            var ins = $('.inputText');
+            ins.focus(function () {
+                $(this).addClass('active'); // jq 에서 this 쓰는 법
+            });
+
+            // 3. 자바스크립트의 innerHTML 와 유사한 기
+            // alert($('#divText'));
+            $('#divText').text('<img src="images/puppy.jpg">');
+            $('#divHtml').html('<img src="images/puppy.jpg">');
+            $('#divEmpty').empty();
+
+            // changeGrim 요소 속성(src) 바꾸기
+            $('#changeGrim').attr('src', 'images/cat.jpg');
+
+            // val() : value 를 얻어오거나 지정하는 함수
+            $('#tf').val('나는 홍길동');
+
+            // ta 에 작성중입니다. 지정
+            $('#ta').val('작성중입니다');
+
+            // 콤보박스에 '인천' 으로 지정
+
+            // 리스트에서는 '제주도', '독도'를 지정
+            $('#sel_m').val(['seom1', 'seom3']);
+
+            // 여자에 체크되게
+            var gender = $('input[name="gender"]');
+            gender.eq(1).attr('checked', true);
+
+            // '확인' 버튼이 눌리면 사용자가 입력하거나 지정한 모든 값들을
+            // div id = result 에  출력되게
+            // $('#check').click( function () {
+            //     var result = $('#result');
+            //     result.append($('#tf').val() + "\t");
+            //     result.append($('#ta').val() + "\t");
+            //     result.append($("input[name='gender']:checked").val() + "\t");
+            //     result.append($("select[name='sel1']").val() + "\t");
+            //     result.append($("select[name='sel_m']").val() + "\t");
+            // });
+
+            // 5. 동적 구조 변경
+            var actor = $('#actor');
+            var tae = $('#tae');
+            var su = $('#su');
+            var bin = $('#bin');
+
+            actor.append(tae);
+            actor.append(su);
+            actor.append(bin);
+
+            // 동적으로 태그 추가
+            var n = $('<div/>');
+            n.text('새배우');
+            actor.append(n);
+
+            actor.append('<div id="old">헌배우</div>');
+
+            // 6. 복수개의 요소인 경우
+            $('.data').each( function () {
+                $(this).click(function () {
+                    alert($(this).text());
+                });
+            });
+
+        });
+    </script>
+
+</head>
+<body>
+<!--  1 -->
+<ul>
+    <li class="man">김수현</li>
+    <li class="woman">김희애</li>
+    <li class="woman">송혜교</li>
+    <li class="man">하정우</li>
+    <li class="woman">김태희</li>
+</ul>
+<!-- 2 -->
+<input type="text" class="inputText"/>
+<input type="text" class="inputText"/>
+<input type="text" class="inputText"/>
+
+
+<!-- 3 -->
+<div id="divText">여기에 글씨를</div>
+<div id="divHtml">여기에 그림을</div>
+<div id="divEmpty">여기를 비움</div>
+<p>
+    <img src="images/puppy.jpg" id='changeGrim'>
+</p>
+
+<!-- 4 -->
+<p>
+    <input id="tf" type="text" size="20"/>
+    <textarea id="ta" rows="3" cols="20"></textarea>
+    <select id="sel1">
+        <option value="seoul">서울</option>    <!-- option에 value 값 없어도 됨 -->
+        <option value="busan">부산</option>
+        <option value="masan">마산</option>
+        <option value="incheon">인천</option>
+    </select>
+    <select id="sel_m" multiple="multiple">
+        <option value="seom1">제주도</option>
+        <option value="seom2">울릉도</option>
+        <option value="seom3">독도</option>
+        <option value="seom4">거제도</option>
+    </select>
+    <input type="radio" name="gender">남자
+    <input type="radio" name="gender">여자
+    <input type='button' id='check' value='확인'/>
+    <input type='button' id='sel2' value='초기화'/> <!--  [과제] 클릭시 값 지정하려면  -->
+<div id='result'></div>
+</p>
+
+<!-- 5 -->
+<div id="actor">배우</div>
+<div id="tae">김태희</div>
+<div id="su">김수현</div>
+<div id="bin">현빈</div>
+<!-- [ 과제 ] 동적 테이블 만들기  -->
+
+<!-- 6 -->
+<div class="data">이름</div>
+<div class="data">직업</div>
+<div class="data">나이</div>
+
+
+</body>
+</html>
