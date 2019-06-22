@@ -159,7 +159,28 @@ public class MessageDao {
         boolean isEmpty = true;
 
         try {
+            con = DriverManager.getConnection( dbUrl, dbUser, dbPass );
+            String sql = "SELECT A.message_id, A.guest_name, A.password, A.message " +
+                    "FROM (SELECT ROW_NUMBER() OVER(ORDER BY MESSAGE_ID DESC) AS RNUM " +
+                    ", MESSAGE_ID, GUEST_NAME, PASSWORD,MESSAGE FROM GuestTB C_GuestTB) A " +
+                    "WHERE A.rnum BETWEEN ? AND ? ";
+            ps = con.prepareStatement( sql );
+            ps.setInt( 1, firstRow );
+            ps.setInt( 2, endRow );
+            rs = ps.executeQuery( );
 
+            while (rs.next( )) {
+                // 각 컬럼들의 값을 가져오세요.
+                // message 객체를 ArrayList 에 추가
+                Message m = new Message( );
+                m.setMessageId( rs.getInt( "MESSAGE_ID" ) );
+                m.setGuestName( rs.getString( "GUEST_NAME" ) );
+                m.setPassword( rs.getString( "PASSWORD" ) );
+                m.setMessage( rs.getString( "MESSAGE" ) );
+                mList.add( m );
+
+                isEmpty = false;
+            }
 
             if (isEmpty) return Collections.emptyList( );
 
@@ -201,7 +222,17 @@ public class MessageDao {
         int count = 0;
 
         try {
-
+            con = DriverManager.getConnection( dbUrl, dbUser, dbPass );
+            String sql = "SELECT * FROM guesttb";
+            PreparedStatement st = con.prepareStatement( sql );
+            rs = st.executeQuery( );
+            System.out.println( rs );
+            while (rs.next()) {
+                count++;
+//                SELECT count(*) AS count FROM guesttb;
+//                rs.getInt( "count" ); 로 변경 가능
+            }
+            System.out.println( count );
             return count;
 
         } catch (Exception ex) {
@@ -240,9 +271,9 @@ public class MessageDao {
             String sql = "DELETE FROM guesttb WHERE message_id = ? AND password = ?";
             ps = con.prepareStatement( sql );
             ps.setInt( 1, messageId );
-            ps.setString( 2,password );
+            ps.setString( 2, password );
 
-            result = ps.executeUpdate();
+            result = ps.executeUpdate( );
 
             return result;
         } catch (Exception ex) {

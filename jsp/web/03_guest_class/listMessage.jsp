@@ -4,9 +4,16 @@
 <%@ page import="java.util.List" %>
 
 <%
-    // 전체 메세지 레코드 검색
+    // getTotalCount
     ListMessageService listService = ListMessageService.getInstance( );
-    List<Message> mList = listService.getMessageList( );
+    int totalPageCount = listService.getTotalPage();
+    // page 번호 받기
+    String pNum = request.getParameter( "page" );
+
+    // 전체 메세지 레코드 검색
+    List<Message> mList = listService.getMessageList( pNum );
+
+
 
 %>
 <!DOCTYPE html>
@@ -42,6 +49,13 @@
 
 <% } // end if-else %>
 
-<a href="insertMessage.jsp">글쓰기</a>
+<a href="insertMessage.jsp">글쓰기</a><br>
+
+<%-- 페이지 번호 출력 --%>
+<% for(int i=1; i<=totalPageCount; i++) { %>
+<%--숫자에 링크 걸기--%>
+<a href="listMessage.jsp?page=<%=i%>">[<%= i %>]</a>
+<% } // for end%>
+
 </body>
 </html>
