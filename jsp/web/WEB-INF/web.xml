@@ -3,4 +3,31 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
          version="4.0">
+<!--    <display-name>Jsp</display-name>-->
+<!--    <welcome-file-list>-->
+<!--        <welcome-file>index.jsp</welcome-file>-->
+<!--        <welcome-file>main.jsp</welcome-file>-->
+<!--    </welcome-file-list>-->
+<!--    서블릿 등록, name은 임의로 주면 되지만, 매핑과 동일해야 한다. 보통은 헷갈리니까 클래스명을 준다. -->
+<!--    <servlet>-->
+<!--        <servlet-name>SimpleControl</servlet-name>-->
+<!--        <servlet-class>mvc.simple.SimpleControl</servlet-class>-->
+<!--    </servlet>-->
+<!--    <servlet-mapping>-->
+<!--        <servlet-name>SimpleControl</servlet-name>-->
+<!--        <url-pattern>/SimpleControl</url-pattern>-->
+<!--        <url-pattern>/simple</url-pattern>-->
+<!--        <url-pattern>*.ksm</url-pattern>-->
+<!--    </servlet-mapping>-->
+
+<!--&lt;!&ndash;    방명록 서블릿 &ndash;&gt;-->
+<!--    <servlet>-->
+<!--        <servlet-name>GuestControl</servlet-name>-->
+<!--        <servlet-class>mvc.guest.control.GuestControl</servlet-class>-->
+<!--    </servlet>-->
+<!--    <servlet-mapping>-->
+<!--        <servlet-name>GuestControl</servlet-name>-->
+<!--        <url-pattern>/guest</url-pattern>-->
+<!--        <url-pattern>*.do</url-pattern>-->
+<!--    </servlet-mapping>-->
 </web-app>

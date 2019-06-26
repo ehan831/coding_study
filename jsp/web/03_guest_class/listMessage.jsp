@@ -7,6 +7,7 @@
     // getTotalCount
     ListMessageService listService = ListMessageService.getInstance( );
     int totalPageCount = listService.getTotalPage();
+
     // page 번호 받기
     String pNum = request.getParameter( "page" );
 
