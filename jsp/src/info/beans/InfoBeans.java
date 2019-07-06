@@ -1,13 +1,13 @@
 package info.beans;
 
-public class infoBeans {
+public class InfoBeans {
     private String id;
     private String name;
 
-    public infoBeans() {
+    public InfoBeans() {
     }
 
-    public infoBeans(String id, String name) {
+    public InfoBeans(String id, String name) {
         this.id = id;
         this.name = name;
     }

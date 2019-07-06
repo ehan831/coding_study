@@ -1,10 +1,10 @@
 <%@ page contentType="text/html; charset=UTF-8" 
 pageEncoding="UTF-8"%>
 
- <%@page import="info.beans.infoBeans" %>
+ <%@page import="info.beans.InfoBeans" %>
 <%-- 요런 방법 있음 --%>
 <%-- <% --%>
-<%--	infoBeans bean = new infoBeans(  );--%>
+<%--	InfoBeans bean = new InfoBeans(  );--%>
 <%--	String name = request.getParameter( "name" );--%>
 <%--	String id = request.getParameter( "id" );--%>
 <%--	--%>
@@ -12,7 +12,7 @@ pageEncoding="UTF-8"%>
 <%--	bean.setId( id );--%>
 <%-- %> --%>
 
-<jsp:useBean id="bean" class="info.beans.infoBeans">
+<jsp:useBean id="bean" class="info.beans.InfoBeans">
 	<jsp:setProperty name="bean" property="*"></jsp:setProperty>
 </jsp:useBean>
 
