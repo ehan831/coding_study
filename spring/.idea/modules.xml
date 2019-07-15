@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cAOP/cAOP.iml" filepath="$PROJECT_DIR$/cAOP/cAOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dSpringJDBC/dSpringJDBC.iml" filepath="$PROJECT_DIR$/dSpringJDBC/dSpringJDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eSpringMybatis/eSpringMybatis.iml" filepath="$PROJECT_DIR$/eSpringMybatis/eSpringMybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hWebBoard/hWebBoard.iml" filepath="$PROJECT_DIR$/hWebBoard/hWebBoard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring.iml" filepath="$PROJECT_DIR$/.idea/spring.iml" />
+    </modules>
+  </component>
+</project>

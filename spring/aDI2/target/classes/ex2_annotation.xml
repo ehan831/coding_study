@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+    <context:component-scan base-package="ex2_annotation"></context:component-scan>
+
+    <bean class="ex2_annotation.MemberBean" id="memberBean">
+        <property name="name" value="이르으음"></property>
+        <property name="age" value="42"></property>
+        <property name="message" value="야이야이야"></property>
+    </bean>
+
+    <bean class="ex2_annotation.MemberBean" id="memberBean2">
+        <property name="name" value="갓디비"></property>
+        <property name="age" value="27"></property>
+        <property name="message" value="헬로우"></property>
+    </bean>
+</beans>

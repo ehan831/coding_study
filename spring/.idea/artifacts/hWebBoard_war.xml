@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hWebBoard:war">
+    <output-path>$PROJECT_DIR$/hWebBoard/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>hWebBoard</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="basic-1.0.0-BUILD-SNAPSHOT.war">
+      <element id="artifact" artifact-name="hWebBoard:war exploded" />
+    </root>
+  </artifact>
+</component>

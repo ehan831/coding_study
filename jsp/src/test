@@ -1,0 +1,911 @@
+{
+  "rentBikeStatus": {
+    "list_total_count": 100,
+    "RESULT": {
+      "CODE": "INFO-000",
+      "MESSAGE": "정상 처리되었습니다."
+    },
+    "row": [
+      {
+        "rackTotCnt": "15",
+        "stationName": "1023. 한국종합기술사옥 앞",
+        "parkingBikeTotCnt": "28",
+        "shared": "187",
+        "stationLatitude": "37.549999",
+        "stationLongitude": "127.174690",
+        "stationId": "ST-1040"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "1024.  강동구청 앞",
+        "parkingBikeTotCnt": "30",
+        "shared": "300",
+        "stationLatitude": "37.529251",
+        "stationLongitude": "127.123108",
+        "stationId": "ST-1041"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "1025. 상일초등학교",
+        "parkingBikeTotCnt": "5",
+        "shared": "50",
+        "stationLatitude": "37.546841",
+        "stationLongitude": "127.172516",
+        "stationId": "ST-1042"
+      },
+      {
+        "rackTotCnt": "14",
+        "stationName": "1026. 대명초교 입구 교차로",
+        "parkingBikeTotCnt": "2",
+        "shared": "14",
+        "stationLatitude": "37.546631",
+        "stationLongitude": "127.155884",
+        "stationId": "ST-1043"
+      },
+      {
+        "rackTotCnt": "20",
+        "stationName": "1027. 프라자 아파트 앞",
+        "parkingBikeTotCnt": "5",
+        "shared": "25",
+        "stationLatitude": "37.535999",
+        "stationLongitude": "127.147697",
+        "stationId": "ST-1044"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "1028. 포레스 주상복합 빌딩",
+        "parkingBikeTotCnt": "1",
+        "shared": "10",
+        "stationLatitude": "37.533100",
+        "stationLongitude": "127.122780",
+        "stationId": "ST-1045"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "1029. 롯데 시네마",
+        "parkingBikeTotCnt": "8",
+        "shared": "80",
+        "stationLatitude": "37.536541",
+        "stationLongitude": "127.125397",
+        "stationId": "ST-1046"
+      },
+      {
+        "rackTotCnt": "15",
+        "stationName": "1030. 미호 플랜트 앞",
+        "parkingBikeTotCnt": "4",
+        "shared": "27",
+        "stationLatitude": "37.527061",
+        "stationLongitude": "127.122070",
+        "stationId": "ST-1047"
+      },
+      {
+        "rackTotCnt": "15",
+        "stationName": "1031. 암사동 CBIS",
+        "parkingBikeTotCnt": "24",
+        "shared": "160",
+        "stationLatitude": "37.555851",
+        "stationLongitude": "127.129898",
+        "stationId": "ST-1048"
+      },
+      {
+        "rackTotCnt": "20",
+        "stationName": "1032. 선사고등학교",
+        "parkingBikeTotCnt": "16",
+        "shared": "80",
+        "stationLatitude": "37.556728",
+        "stationLongitude": "127.136208",
+        "stationId": "ST-1049"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "1033. 고덕동 아남아파트",
+        "parkingBikeTotCnt": "3",
+        "shared": "30",
+        "stationLatitude": "37.557991",
+        "stationLongitude": "127.144707",
+        "stationId": "ST-1050"
+      },
+      {
+        "rackTotCnt": "15",
+        "stationName": "1034. 고덕동 래미안 힐스테이트",
+        "parkingBikeTotCnt": "10",
+        "shared": "67",
+        "stationLatitude": "37.561909",
+        "stationLongitude": "127.150749",
+        "stationId": "ST-1051"
+      },
+      {
+        "rackTotCnt": "20",
+        "stationName": "1035. 고덕역 4번출구",
+        "parkingBikeTotCnt": "0",
+        "shared": "0",
+        "stationLatitude": "37.555016",
+        "stationLongitude": "127.155273",
+        "stationId": "ST-1052"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "1036. 고덕동 주양쇼핑",
+        "parkingBikeTotCnt": "0",
+        "shared": "0",
+        "stationLatitude": "37.551998",
+        "stationLongitude": "127.153297",
+        "stationId": "ST-1053"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "1037. 강일 6단지",
+        "parkingBikeTotCnt": "6",
+        "shared": "60",
+        "stationLatitude": "37.562588",
+        "stationLongitude": "127.177612",
+        "stationId": "ST-1054"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "1038. 강일 다솜 어린이 공원",
+        "parkingBikeTotCnt": "22",
+        "shared": "220",
+        "stationLatitude": "37.568668",
+        "stationLongitude": "127.174797",
+        "stationId": "ST-1055"
+      },
+      {
+        "rackTotCnt": "7",
+        "stationName": "1039. 고덕초등학교",
+        "parkingBikeTotCnt": "18",
+        "shared": "257",
+        "stationLatitude": "37.561279",
+        "stationLongitude": "127.167801",
+        "stationId": "ST-1056"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "1041. 묘곡초등학교",
+        "parkingBikeTotCnt": "24",
+        "shared": "240",
+        "stationLatitude": "37.559196",
+        "stationLongitude": "127.153297",
+        "stationId": "ST-1058"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "1042. 강일 2.5단지 사이",
+        "parkingBikeTotCnt": "25",
+        "shared": "250",
+        "stationLatitude": "37.568562",
+        "stationLongitude": "127.177002",
+        "stationId": "ST-1059"
+      },
+      {
+        "rackTotCnt": "15",
+        "stationName": "1044. 굽은다리역",
+        "parkingBikeTotCnt": "35",
+        "shared": "233",
+        "stationLatitude": "37.545399",
+        "stationLongitude": "127.142601",
+        "stationId": "ST-1061"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "108. 서교동 사거리",
+        "parkingBikeTotCnt": "13",
+        "shared": "130",
+        "stationLatitude": "37.552746",
+        "stationLongitude": "126.918617",
+        "stationId": "ST-10"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "109. 제일빌딩 앞",
+        "parkingBikeTotCnt": "2",
+        "shared": "20",
+        "stationLatitude": "37.547691",
+        "stationLongitude": "126.919983",
+        "stationId": "ST-11"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "1150. 송정역 1번출구",
+        "parkingBikeTotCnt": "8",
+        "shared": "80",
+        "stationLatitude": "37.561550",
+        "stationLongitude": "126.810478",
+        "stationId": "ST-1062"
+      },
+      {
+        "rackTotCnt": "25",
+        "stationName": "1151. 마곡역1번출구",
+        "parkingBikeTotCnt": "6",
+        "shared": "24",
+        "stationLatitude": "37.560234",
+        "stationLongitude": "126.823471",
+        "stationId": "ST-1063"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "1152. 마곡역교차로",
+        "parkingBikeTotCnt": "11",
+        "shared": "110",
+        "stationLatitude": "37.558666",
+        "stationLongitude": "126.826614",
+        "stationId": "ST-1064"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "1153. 발산역 1번, 9번 인근 대여소",
+        "parkingBikeTotCnt": "10",
+        "shared": "100",
+        "stationLatitude": "37.558891",
+        "stationLongitude": "126.837219",
+        "stationId": "ST-1065"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "1155. 기쁜우리복지관",
+        "parkingBikeTotCnt": "10",
+        "shared": "100",
+        "stationLatitude": "37.569260",
+        "stationLongitude": "126.848419",
+        "stationId": "ST-1067"
+      },
+      {
+        "rackTotCnt": "8",
+        "stationName": "1157. 강서구청",
+        "parkingBikeTotCnt": "2",
+        "shared": "25",
+        "stationLatitude": "37.550659",
+        "stationLongitude": "126.849770",
+        "stationId": "ST-1069"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "1251. 석촌역 2번출구",
+        "parkingBikeTotCnt": "1",
+        "shared": "10",
+        "stationLatitude": "37.505932",
+        "stationLongitude": "127.107750",
+        "stationId": "ST-1070"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "1253. 오금역 3번 출구 뒤",
+        "parkingBikeTotCnt": "1",
+        "shared": "10",
+        "stationLatitude": "37.501652",
+        "stationLongitude": "127.128181",
+        "stationId": "ST-1072"
+      },
+      {
+        "rackTotCnt": "8",
+        "stationName": "1256. 문정현대아파트 교차로",
+        "parkingBikeTotCnt": "2",
+        "shared": "25",
+        "stationLatitude": "37.491131",
+        "stationLongitude": "127.125809",
+        "stationId": "ST-1075"
+      },
+      {
+        "rackTotCnt": "20",
+        "stationName": "1257. 가락시장역 롯데마트앞",
+        "parkingBikeTotCnt": "0",
+        "shared": "0",
+        "stationLatitude": "37.492100",
+        "stationLongitude": "127.117752",
+        "stationId": "ST-1076"
+      },
+      {
+        "rackTotCnt": "15",
+        "stationName": "1259. 방이역 1번출구",
+        "parkingBikeTotCnt": "1",
+        "shared": "7",
+        "stationLatitude": "37.508984",
+        "stationLongitude": "127.126595",
+        "stationId": "ST-1078"
+      },
+      {
+        "rackTotCnt": "8",
+        "stationName": "1260. 방이동 한양3차아파트 옆",
+        "parkingBikeTotCnt": "2",
+        "shared": "25",
+        "stationLatitude": "37.506302",
+        "stationLongitude": "127.121399",
+        "stationId": "ST-1079"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "1262. 송파여성문화회관 앞",
+        "parkingBikeTotCnt": "0",
+        "shared": "0",
+        "stationLatitude": "37.505802",
+        "stationLongitude": "127.109718",
+        "stationId": "ST-1081"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "1263. 장지공영차고지",
+        "parkingBikeTotCnt": "0",
+        "shared": "0",
+        "stationLatitude": "37.480541",
+        "stationLongitude": "127.137016",
+        "stationId": "ST-1082"
+      },
+      {
+        "rackTotCnt": "8",
+        "stationName": "1264. 천호역 10번 출구 앞",
+        "parkingBikeTotCnt": "4",
+        "shared": "50",
+        "stationLatitude": "37.538582",
+        "stationLongitude": "127.122803",
+        "stationId": "ST-1083"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "1265. 문정동 근린공원",
+        "parkingBikeTotCnt": "18",
+        "shared": "180",
+        "stationLatitude": "37.485989",
+        "stationLongitude": "127.124763",
+        "stationId": "ST-1084"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "1266. 문정동 글샘 공원",
+        "parkingBikeTotCnt": "1",
+        "shared": "10",
+        "stationLatitude": "37.478809",
+        "stationLongitude": "127.120003",
+        "stationId": "ST-1085"
+      },
+      {
+        "rackTotCnt": "15",
+        "stationName": "1267. 올림픽공원 남2문 앞",
+        "parkingBikeTotCnt": "4",
+        "shared": "27",
+        "stationLatitude": "37.514240",
+        "stationLongitude": "127.123070",
+        "stationId": "ST-1086"
+      },
+      {
+        "rackTotCnt": "15",
+        "stationName": "1268. 몽촌토성역 1번출구 옆",
+        "parkingBikeTotCnt": "0",
+        "shared": "0",
+        "stationLatitude": "37.517288",
+        "stationLongitude": "127.114197",
+        "stationId": "ST-1087"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "1269. 리센츠아파트 ",
+        "parkingBikeTotCnt": "0",
+        "shared": "0",
+        "stationLatitude": "37.511944",
+        "stationLongitude": "127.091217",
+        "stationId": "ST-1088"
+      },
+      {
+        "rackTotCnt": "15",
+        "stationName": "1271. 송파도서관",
+        "parkingBikeTotCnt": "8",
+        "shared": "53",
+        "stationLatitude": "37.499985",
+        "stationLongitude": "127.135391",
+        "stationId": "ST-1089"
+      },
+      {
+        "rackTotCnt": "20",
+        "stationName": "1274. 영파여고 앞",
+        "parkingBikeTotCnt": "10",
+        "shared": "50",
+        "stationLatitude": "37.532848",
+        "stationLongitude": "127.121048",
+        "stationId": "ST-1092"
+      },
+      {
+        "rackTotCnt": "8",
+        "stationName": "1442. (구)신한은행 중랑교지점",
+        "parkingBikeTotCnt": "8",
+        "shared": "100",
+        "stationLatitude": "37.598591",
+        "stationLongitude": "127.079819",
+        "stationId": "ST-1093"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "1443. 구립망우청소년독서실",
+        "parkingBikeTotCnt": "1",
+        "shared": "10",
+        "stationLatitude": "37.595520",
+        "stationLongitude": "127.098778",
+        "stationId": "ST-1094"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "1444. 면목4치안센터",
+        "parkingBikeTotCnt": "15",
+        "shared": "150",
+        "stationLatitude": "37.574028",
+        "stationLongitude": "127.080544",
+        "stationId": "ST-1095"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "1445. 용마지구대",
+        "parkingBikeTotCnt": "3",
+        "shared": "30",
+        "stationLatitude": "37.579941",
+        "stationLongitude": "127.079399",
+        "stationId": "ST-1096"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "1446. 중랑전화국 교차로",
+        "parkingBikeTotCnt": "17",
+        "shared": "170",
+        "stationLatitude": "37.591301",
+        "stationLongitude": "127.080330",
+        "stationId": "ST-1097"
+      },
+      {
+        "rackTotCnt": "15",
+        "stationName": "1447. 면목역 3번출구",
+        "parkingBikeTotCnt": "15",
+        "shared": "100",
+        "stationLatitude": "37.588902",
+        "stationLongitude": "127.087280",
+        "stationId": "ST-1098"
+      },
+      {
+        "rackTotCnt": "15",
+        "stationName": "1448. 코스트코 상봉점",
+        "parkingBikeTotCnt": "24",
+        "shared": "160",
+        "stationLatitude": "37.597321",
+        "stationLongitude": "127.089798",
+        "stationId": "ST-1099"
+      },
+      {
+        "rackTotCnt": "8",
+        "stationName": "1526. 수유동 채선당앞",
+        "parkingBikeTotCnt": "5",
+        "shared": "63",
+        "stationLatitude": "37.641739",
+        "stationLongitude": "127.024628",
+        "stationId": "ST-1100"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "1527. 미아역 1번 출구 뒤",
+        "parkingBikeTotCnt": "8",
+        "shared": "80",
+        "stationLatitude": "37.627335",
+        "stationLongitude": "127.026054",
+        "stationId": "ST-1101"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "1528. 삼각산동 주민센터",
+        "parkingBikeTotCnt": "7",
+        "shared": "70",
+        "stationLatitude": "37.615036",
+        "stationLongitude": "127.020699",
+        "stationId": "ST-1102"
+      },
+      {
+        "rackTotCnt": "15",
+        "stationName": "1529. 미아동 한국전력공사",
+        "parkingBikeTotCnt": "11",
+        "shared": "73",
+        "stationLatitude": "37.630180",
+        "stationLongitude": "127.024910",
+        "stationId": "ST-1103"
+      },
+      {
+        "rackTotCnt": "15",
+        "stationName": "400. 상암한화오벨리스크 1차 앞",
+        "parkingBikeTotCnt": "9",
+        "shared": "60",
+        "stationLatitude": "37.587524",
+        "stationLongitude": "126.883003",
+        "stationId": "ST-110"
+      },
+      {
+        "rackTotCnt": "15",
+        "stationName": "503. 더샵스타시티 C동 앞",
+        "parkingBikeTotCnt": "5",
+        "shared": "33",
+        "stationLatitude": "37.536667",
+        "stationLongitude": "127.073593",
+        "stationId": "ST-100"
+      },
+      {
+        "rackTotCnt": "9",
+        "stationName": "504. 신자초교입구교차로",
+        "parkingBikeTotCnt": "0",
+        "shared": "0",
+        "stationLatitude": "37.532970",
+        "stationLongitude": "127.075935",
+        "stationId": "ST-101"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "505. 자양사거리 광진아크로텔 앞",
+        "parkingBikeTotCnt": "0",
+        "shared": "0",
+        "stationLatitude": "37.537010",
+        "stationLongitude": "127.082245",
+        "stationId": "ST-102"
+      },
+      {
+        "rackTotCnt": "7",
+        "stationName": "506. 금호 어울림 아파트 앞",
+        "parkingBikeTotCnt": "17",
+        "shared": "243",
+        "stationLatitude": "37.549061",
+        "stationLongitude": "127.057793",
+        "stationId": "ST-103"
+      },
+      {
+        "rackTotCnt": "7",
+        "stationName": "507. 성수아이에스비즈타워 앞",
+        "parkingBikeTotCnt": "15",
+        "shared": "214",
+        "stationLatitude": "37.548203",
+        "stationLongitude": "127.057114",
+        "stationId": "ST-104"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "508. 성수아카데미타워 앞",
+        "parkingBikeTotCnt": "18",
+        "shared": "180",
+        "stationLatitude": "37.545166",
+        "stationLongitude": "127.057510",
+        "stationId": "ST-105"
+      },
+      {
+        "rackTotCnt": "20",
+        "stationName": "509. 이마트 버스정류소 옆",
+        "parkingBikeTotCnt": "26",
+        "shared": "130",
+        "stationLatitude": "37.539654",
+        "stationLongitude": "127.052589",
+        "stationId": "ST-106"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "510. 서울숲 남문 버스정류소 옆",
+        "parkingBikeTotCnt": "4",
+        "shared": "40",
+        "stationLatitude": "37.541222",
+        "stationLongitude": "127.043800",
+        "stationId": "ST-107"
+      },
+      {
+        "rackTotCnt": "16",
+        "stationName": "511. 서울숲역 4번 출구 옆",
+        "parkingBikeTotCnt": "11",
+        "shared": "69",
+        "stationLatitude": "37.544582",
+        "stationLongitude": "127.044609",
+        "stationId": "ST-108"
+      },
+      {
+        "rackTotCnt": "15",
+        "stationName": "512. 뚝섬역 1번 출구 옆",
+        "parkingBikeTotCnt": "21",
+        "shared": "140",
+        "stationLatitude": "37.548561",
+        "stationLongitude": "127.045006",
+        "stationId": "ST-109"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "729. 서부식자재마트 건너편",
+        "parkingBikeTotCnt": "21",
+        "shared": "210",
+        "stationLatitude": "37.510380",
+        "stationLongitude": "126.866798",
+        "stationId": "ST-1000"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "731. 서울시 도로환경관리센터",
+        "parkingBikeTotCnt": "15",
+        "shared": "150",
+        "stationLatitude": "37.529900",
+        "stationLongitude": "126.876541",
+        "stationId": "ST-1002"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "732. 신월동 이마트",
+        "parkingBikeTotCnt": "7",
+        "shared": "70",
+        "stationLatitude": "37.539551",
+        "stationLongitude": "126.828300",
+        "stationId": "ST-1003"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "733. 신정이펜하우스314동",
+        "parkingBikeTotCnt": "8",
+        "shared": "80",
+        "stationLatitude": "37.514099",
+        "stationLongitude": "126.831001",
+        "stationId": "ST-1004"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "734. 신트리공원 입구",
+        "parkingBikeTotCnt": "27",
+        "shared": "270",
+        "stationLatitude": "37.513950",
+        "stationLongitude": "126.856056",
+        "stationId": "ST-1005"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "735. 영도초등학교",
+        "parkingBikeTotCnt": "3",
+        "shared": "30",
+        "stationLatitude": "37.536430",
+        "stationLongitude": "126.871521",
+        "stationId": "ST-1006"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "736. 오솔길공원",
+        "parkingBikeTotCnt": "5",
+        "shared": "50",
+        "stationLatitude": "37.522190",
+        "stationLongitude": "126.836700",
+        "stationId": "ST-1007"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "737. 장수공원",
+        "parkingBikeTotCnt": "8",
+        "shared": "80",
+        "stationLatitude": "37.522560",
+        "stationLongitude": "126.849480",
+        "stationId": "ST-1008"
+      },
+      {
+        "rackTotCnt": "15",
+        "stationName": "739. 신월사거리",
+        "parkingBikeTotCnt": "16",
+        "shared": "107",
+        "stationLatitude": "37.536201",
+        "stationLongitude": "126.827797",
+        "stationId": "ST-1010"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "740. 으뜸공원",
+        "parkingBikeTotCnt": "7",
+        "shared": "70",
+        "stationLatitude": "37.536369",
+        "stationLongitude": "126.831711",
+        "stationId": "ST-1011"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "741. 화곡로 입구 교차로",
+        "parkingBikeTotCnt": "0",
+        "shared": "0",
+        "stationLatitude": "37.539520",
+        "stationLongitude": "126.825401",
+        "stationId": "ST-1012"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "742. 등촌역 5번 출구 뒤",
+        "parkingBikeTotCnt": "2",
+        "shared": "20",
+        "stationLatitude": "37.550732",
+        "stationLongitude": "126.864578",
+        "stationId": "ST-1013"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "743. 현대6차아파트 101동 옆",
+        "parkingBikeTotCnt": "10",
+        "shared": "100",
+        "stationLatitude": "37.508900",
+        "stationLongitude": "126.842682",
+        "stationId": "ST-1014"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "744. 신목동역 2번 출구",
+        "parkingBikeTotCnt": "21",
+        "shared": "210",
+        "stationLatitude": "37.543842",
+        "stationLongitude": "126.882545",
+        "stationId": "ST-1015"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "745. 강서초등학교",
+        "parkingBikeTotCnt": "7",
+        "shared": "70",
+        "stationLatitude": "37.522282",
+        "stationLongitude": "126.839699",
+        "stationId": "ST-1016"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "746. 목동2단지 상가",
+        "parkingBikeTotCnt": "9",
+        "shared": "90",
+        "stationLatitude": "37.536503",
+        "stationLongitude": "126.877747",
+        "stationId": "ST-1017"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "747. 목동3단지 상가",
+        "parkingBikeTotCnt": "2",
+        "shared": "20",
+        "stationLatitude": "37.534580",
+        "stationLongitude": "126.875648",
+        "stationId": "ST-1018"
+      },
+      {
+        "rackTotCnt": "15",
+        "stationName": "748. 목동운동장",
+        "parkingBikeTotCnt": "4",
+        "shared": "27",
+        "stationLatitude": "37.530251",
+        "stationLongitude": "126.879303",
+        "stationId": "ST-1019"
+      },
+      {
+        "rackTotCnt": "15",
+        "stationName": "934. 신사동 성당",
+        "parkingBikeTotCnt": "7",
+        "shared": "47",
+        "stationLatitude": "37.597141",
+        "stationLongitude": "126.909599",
+        "stationId": "ST-1020"
+      },
+      {
+        "rackTotCnt": "15",
+        "stationName": "937. 상림마을 롯데캐슬2단지 옆",
+        "parkingBikeTotCnt": "15",
+        "shared": "100",
+        "stationLatitude": "37.645851",
+        "stationLongitude": "126.923798",
+        "stationId": "ST-1023"
+      },
+      {
+        "rackTotCnt": "15",
+        "stationName": "938. 금암 문화공원",
+        "parkingBikeTotCnt": "19",
+        "shared": "127",
+        "stationLatitude": "37.644684",
+        "stationLongitude": "126.918457",
+        "stationId": "ST-1024"
+      },
+      {
+        "rackTotCnt": "15",
+        "stationName": "939. 은평구청 교차로",
+        "parkingBikeTotCnt": "14",
+        "shared": "93",
+        "stationLatitude": "37.601700",
+        "stationLongitude": "126.927422",
+        "stationId": "ST-1025"
+      },
+      {
+        "rackTotCnt": "13",
+        "stationName": "941. 은평뉴타운 도서관",
+        "parkingBikeTotCnt": "2",
+        "shared": "15",
+        "stationLatitude": "37.637222",
+        "stationLongitude": "126.933304",
+        "stationId": "ST-1027"
+      },
+      {
+        "rackTotCnt": "9",
+        "stationName": "942. 상림마을 생태공원",
+        "parkingBikeTotCnt": "9",
+        "shared": "100",
+        "stationLatitude": "37.644081",
+        "stationLongitude": "126.929283",
+        "stationId": "ST-1028"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "943. 은평구청 보건소",
+        "parkingBikeTotCnt": "19",
+        "shared": "190",
+        "stationLatitude": "37.602402",
+        "stationLongitude": "126.928650",
+        "stationId": "ST-1029"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "945. 기자촌 사거리",
+        "parkingBikeTotCnt": "1",
+        "shared": "10",
+        "stationLatitude": "37.634140",
+        "stationLongitude": "126.932343",
+        "stationId": "ST-1031"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "946. 독바위역 ",
+        "parkingBikeTotCnt": "1",
+        "shared": "10",
+        "stationLatitude": "37.618439",
+        "stationLongitude": "126.932884",
+        "stationId": "ST-1032"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "947. 연신내 선일하이츠빌 정류소",
+        "parkingBikeTotCnt": "12",
+        "shared": "120",
+        "stationLatitude": "37.622669",
+        "stationLongitude": "126.919991",
+        "stationId": "ST-1033"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "948. 디지털미디어 시티역 4번출구",
+        "parkingBikeTotCnt": "5",
+        "shared": "50",
+        "stationLatitude": "37.577202",
+        "stationLongitude": "126.902351",
+        "stationId": "ST-1034"
+      },
+      {
+        "rackTotCnt": "7",
+        "stationName": "949. 연신내역 1번 출구 ",
+        "parkingBikeTotCnt": "5",
+        "shared": "71",
+        "stationLatitude": "37.619781",
+        "stationLongitude": "126.920807",
+        "stationId": "ST-1035"
+      },
+      {
+        "rackTotCnt": "5",
+        "stationName": "950. 구산역 2번 출구 ",
+        "parkingBikeTotCnt": "10",
+        "shared": "200",
+        "stationLatitude": "37.610779",
+        "stationLongitude": "126.917351",
+        "stationId": "ST-1036"
+      },
+      {
+        "rackTotCnt": "15",
+        "stationName": "951. 연신내역 6번출구옆",
+        "parkingBikeTotCnt": "2",
+        "shared": "13",
+        "stationLatitude": "37.619305",
+        "stationLongitude": "126.920593",
+        "stationId": "ST-1037"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "952. 서울연신중학교",
+        "parkingBikeTotCnt": "3",
+        "shared": "30",
+        "stationLatitude": "37.622650",
+        "stationLongitude": "126.925247",
+        "stationId": "ST-1038"
+      },
+      {
+        "rackTotCnt": "10",
+        "stationName": "953. 서울연신초등학교",
+        "parkingBikeTotCnt": "3",
+        "shared": "30",
+        "stationLatitude": "37.625778",
+        "stationLongitude": "126.928818",
+        "stationId": "ST-1039"
+      }
+    ]
+  }
+}

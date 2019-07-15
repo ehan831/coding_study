@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!--    <bean id="en" class="ex1_xml1.MessageBeanEnImpl"></bean>-->
+<!--    <bean id="ko" class="ex1_xml1.MessageBeanKoImpl"></bean>-->
+
+<!--    &lt;!&ndash; 빈 객체 생성  &ndash;&gt;-->
+<!--    <bean id='mem' class='ex1_xml2_ref.MemberBean'>-->
+<!--        <property name="name">-->
+<!--            <value>홍길자</value>-->
+<!--        </property>-->
+<!--        <property name="age" value="24"></property>-->
+<!--        <property name="message" value="오늘도 행복?!"></property>-->
+<!--    </bean>-->
+
+<!--    <bean id='mem2' class='ex1_xml2_ref.MemberBean'>-->
+<!--        <property name="name">-->
+<!--            <value>홍길동</value>-->
+<!--        </property>-->
+<!--        <property name="age" value="34"></property>-->
+<!--        <property name="message" value="오늘은 불금 ?!"></property>-->
+<!--    </bean>-->
+
+<!--    &lt;!&ndash;	2. 참조형 변수 지정 : ref &ndash;&gt;-->
+<!--    <bean id="dao" class="ex1_xml2_ref.MemberDao">-->
+<!--        <property name="member" ref="mem"></property>-->
+<!--    </bean>-->
+
+<!--    <bean id="dao" class="ex1_xml2_ref.MemberDao">-->
+<!--        <constructor-arg name="member" ref="mem2"></constructor-arg>-->
+<!--    </bean>-->
+
+</beans>

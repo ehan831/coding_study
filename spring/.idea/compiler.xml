@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cAOP" />
+        <module name="eSpringMybatis" />
+        <module name="hWebBoard" />
+        <module name="dSpringJDBC" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cAOP" target="1.5" />
+      <module name="dSpringJDBC" target="1.5" />
+      <module name="eSpringMybatis" target="1.5" />
+      <module name="hWebBoard" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="hWebBoard" options="-Xlint:all" />
+    </option>
+  </component>
+</project>

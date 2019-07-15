@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd">
+
+<!--    target 빈 객체 -->
+    <bean id="targetBean" class="aop2_xml.order.MemberBeanImpl"></bean>
+
+<!--    advice 빈 객체 -->
+    <bean id="advice" class="aop2_xml.order.LoginAdvice"></bean>
+    <bean id="advice2" class="aop2_xml.order.LoginSample"></bean>
+
+<!--    aop 설정 -->
+    <aop:config>
+        <aop:pointcut id="pointCut" expression="execution(public * *(..))"/>
+        <aop:aspect id="aspect" ref="advice">
+            <aop:around method="around" pointcut-ref="pointCut"/>
+        </aop:aspect>
+        <aop:aspect id="aspect2" ref="advice2">
+            <aop:before method="before" pointcut-ref="pointCut"></aop:before>
+            <aop:after-returning method="afterReturn" pointcut-ref="pointCut"></aop:after-returning>
+        </aop:aspect>
+    </aop:config>
+
+</beans>

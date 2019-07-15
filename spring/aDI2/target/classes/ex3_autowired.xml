@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+
+<!--    빈 객체 생성 -->
+    <bean id="message" class="ex3_autowired.MessageBeanImpl">
+<!--        SETTER 를 부르는 것임 // setName() // setMessage() -->
+        <property name="name" value="지각 하지말자!!"></property>
+        <property name="message" value="커피와 샌드위치"></property>
+    </bean>
+
+    <context:component-scan base-package="ex3_autowired"></context:component-scan>
+    <bean id="outputer" class="ex3_autowired.OutputerImpl">
+        <property name="path" value="src/main/java/ex3_autowired/save.txt"></property>
+    </bean>
+    <bean id="outputer2" class="ex3_autowired.OutputerImpl">
+        <property name="path" value="/Users/eunguhan/git/coding_study/spring/aDI2/src/main/java/ex3_autowired/message.txt"></property>
+    </bean>
+</beans>

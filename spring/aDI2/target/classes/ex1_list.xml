@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="bean" class="ex1_xml4_list.ListBean">
+        <!--        기본형이면 value // 참조형이면 ref -->
+        <property name="intList">
+            <list>
+                <value>22</value>
+                <value>33</value>
+                <value>44</value>
+            </list>
+        </property>
+        <property name="memberList">
+            <list>
+                <ref bean="mem1"></ref>
+                <ref bean="mem2"></ref>
+            </list>
+        </property>
+    </bean>
+
+    <bean id="mem1" class="ex1_xml4_list.MemberBean">
+        <!--        1. 생성자로 값 지정 -->
+        <property name="name" value="생성자"></property>
+        <property name="age" value="20"></property>
+        <property name="message" value="생성자로 값 부여"></property>
+    </bean>
+    <bean id="mem2" class="ex1_xml4_list.MemberBean">
+        <!--        2. setter 로 값 지정 -->
+
+    </bean>
+
+    <!--    밑에 방법은 그냥 확인차 -->
+    <bean id="mem3" class="ex1_xml4_list.MemberBean">
+        <!--        3. pValue 로 값 지정 -->
+
+    </bean>
+</beans>

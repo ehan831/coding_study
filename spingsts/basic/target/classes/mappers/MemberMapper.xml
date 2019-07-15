@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="user">
+
+ <insert id="userInsert" parameterType="member">
+ 	INSERT INTO member2 VALUES(#{userId},#{userPass},#{userName})
+ </insert>
+
+<!-- #{} : PreparedStatement 를 사용해서 문자열인 경우 ''이 자동  -->
+<!-- ${} : Statement 를 이용해서 '' 자동으로 부여되지 않음 (컬럼명인 경우) 
+		WHERE 컬럼명 LIKE '%검색어%';
+  -->
+  
+  <select id="idCheck" parameterType="member" resultType="member">
+  SELECT * FROM member2
+  WHERE userid=#{userId}
+  <if test="userPass != null">
+  	AND userpass=#{userPass}
+  </if>
+  	
+  </select>
+</mapper>

@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Spring-3.2.18.RELEASE" type="spring">
+    <properties version="3.2.18.RELEASE" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hWebBoard/lib/spring-instrument-3.2.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hWebBoard/lib/spring-instrument-tomcat-3.2.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hWebBoard/lib/spring-aspects-3.2.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hWebBoard/lib/spring-context-support-3.2.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hWebBoard/lib/spring-oxm-3.2.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hWebBoard/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hWebBoard/lib/spring-expression-3.2.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hWebBoard/lib/spring-aop-3.2.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hWebBoard/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hWebBoard/lib/spring-jdbc-3.2.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hWebBoard/lib/spring-tx-3.2.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hWebBoard/lib/spring-jms-3.2.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hWebBoard/lib/spring-orm-3.2.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hWebBoard/lib/spring-test-3.2.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hWebBoard/lib/spring-context-3.2.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hWebBoard/lib/spring-core-3.2.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hWebBoard/lib/spring-beans-3.2.18.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

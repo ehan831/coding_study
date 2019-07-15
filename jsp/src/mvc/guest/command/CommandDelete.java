@@ -1,0 +1,41 @@
+package mvc.guest.command;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import mvc.guest.model.Message;
+import mvc.guest.model.MessageDao;
+import mvc.guest.model.MessageException;
+
+import java.util.List;
+
+public class CommandDelete implements Command {
+	private String next;
+
+	public CommandDelete( String _next ){
+		next = _next;
+	}
+	
+	public String execute(HttpServletRequest request, HttpServletResponse response  ) throws CommandException {
+
+		try{
+
+			int messageId = Integer.parseInt(request.getParameter("messageId"));
+			String password = request.getParameter("password");
+			System.out.println(messageId +"/"+ password );
+			int resultCnt = MessageDao.getInstance().delete(messageId, password);
+			
+			request.setAttribute("result", resultCnt);
+
+			// 삭제 후 조회까지
+			List<Message> mList = MessageDao.getInstance().selectList();
+			request.setAttribute("param", mList );
+
+		}catch( MessageException ex ){
+			throw new CommandException("CommandDelete.java < 삭제시 > " + ex.toString() ); 
+		}
+		
+		return next;			
+	}
+
+}
