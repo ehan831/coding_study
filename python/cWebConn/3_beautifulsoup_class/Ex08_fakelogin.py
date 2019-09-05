@@ -19,4 +19,33 @@
         Gereral : Request Mathod : POST
         Form Data : m_id와 m_passwd 값 확인
 """
+import requests
+from bs4 import BeautifulSoup
+
+
+# 세션 시작하기
+sess = requests.session()
+login_info = {
+    'm_id': '',
+    'm_passwd': ''
+}
+url_logic = 'http://www.hanbit.co.kr/member/login_proc.php'
+res = sess.post(url_logic, data=login_info)
+res.raise_for_status()      # 해당 사이트에서 오류 발생 시 나도 알려줘 !!
+
+
+url_mypage = 'http://www.hanbit.co.kr/myhanbit/myhanbit.html'
+res = sess.get(url_mypage)
+res.raise_for_status()
+
+
+# 결과 값 파싱하기
+soup = BeautifulSoup(res.text, 'html.parser')
+# print(soup)
+
+
+# 원하는 데이터 찾기
+print('마일리지', soup.select_one('.mileage_section1 span').text)
+
+
 

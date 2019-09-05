@@ -17,16 +17,22 @@
 from bs4 import BeautifulSoup
 
 html = """
-    <html><body>
-        <h1>스크레이핑 연습</h1>
-        <p>웹페이지 분석하자</p>
-        <p>데이타 정제하기</p>
-    </body></html>
+    <html>
+        <body>
+            <h1>스크레이핑 연습</h1>
+            <p>웹페이지 분석하자</p>
+            <p>데이타 정제하기</p>
+        </body>
+    </html>
 """
 
 # 1. 데이타 파서하기
+soup = BeautifulSoup(html, 'html.parser')
 
-# 2. 원하는 요소 접근하기
+# 2. 원하는 요소(element, 혹은 tag) 접근하기
+h1 = soup.html.body.h1
+print(h1)
+print(h1.string)
 
 # 3. 요소의 내용 추출하기
-
+print(soup.html.body.find_all('p'))

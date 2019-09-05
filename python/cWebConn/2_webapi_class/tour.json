@@ -1,0 +1,25 @@
+{
+  'response': {
+    'header': {
+      'resultCode': '0000',
+      'resultMsg': 'OK'
+    },
+    'body': {
+      'items': {
+        'item': {
+          'addrCd': 2635,
+          'csForCnt': 286,
+          'csNatCnt': 9110,
+          'gungu': '해운대구',
+          'resNm': '부산시립미술관',
+          'rnum': 1,
+          'sido': '부산광역시',
+          'ym': 201201
+        }
+      },
+      'numOfRows': 10,
+      'pageNo': 1,
+      'totalCount': 1
+    }
+  }
+}

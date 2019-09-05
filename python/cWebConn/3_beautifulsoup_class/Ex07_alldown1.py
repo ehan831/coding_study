@@ -7,15 +7,23 @@ from bs4 import BeautifulSoup
 from urllib import parse
 from urllib import request
 
-def enum_links(html,base):
-    #-------------------------------------
 
+def enum_links(html, base):
+    # -------------------------------------
+    soup = BeautifulSoup(html, 'html.parser')
+    links = soup.select('a[href]')
     result = []
+
+    for a in links:
+        href = a.attrs['href']
+        parse_url = parse.urljoin(base, href)   # url 을 절대경로로 바꿔주네 !!
+        # print(parse_url)
+        result.append(parse_url)
     return result
 
 
 if __name__ == '__main__':
     url = 'https://docs.python.org/3.7/library/'
-    response = request.urlopen(url)   # urllib.request.urlopen() : BeautifulSoup을 통해 html 파서할(데이타를 가져올) 대상
+    response = request.urlopen(url)  # urllib.request.urlopen() : BeautifulSoup을 통해 html 파서할(데이타를 가져올) 대상
     result = enum_links(response, url)
     print(result)

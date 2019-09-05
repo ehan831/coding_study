@@ -25,4 +25,14 @@
 (3) json 디코더 내장 (따로 json 모듈 사용 안해도 됨)
     resp.json()
 """
+import requests as rq
 
+url = 'http://google.com'
+res = rq.get(url)
+# print(res)  # <Response [200]>
+
+headers = res.headers
+
+# print(headers)      # {'Date': 'Mon, 26 Aug 2019 05:44:14 GMT', 'Expires': '-1', 'Cache-Control': 'private, max-age=0', 'Content-Type': 'text/html; charset=ISO-8859-1', 'P3P': 'CP="This is not a P3P policy! See g.co/p3phelp for more info."', 'Content-Encoding': 'gzip', 'Server': 'gws', 'Content-Length': '5342', 'X-XSS-Protection': '0', 'X-Frame-Options': 'SAMEORIGIN', 'Set-Cookie': '1P_JAR=2019-08-26-05; expires=Wed, 25-Sep-2019 05:44:14 GMT; path=/; domain=.google.com, NID=188=DrT05uPmoo9YocDGEBUXbWg0Ne2Y17Os2AK9b_7Ff04ouxokl-bwkILewpEyur1JHTwXTlpJVaW0dAoVSGwk6399XZpOYiVuVgbhnb3xT4yGYs5XsVcdtahPlWzhUI3XHoLuqLJtJ8BY-57FiaJ9d7lzvBFjnjIKGHu19pEoMag; expires=Tue, 25-Feb-2020 05:44:13 GMT; path=/; domain=.google.com; HttpOnly'}
+for k, v in headers.items():
+    print(k, v)

@@ -1,0 +1,1 @@
+aa = load 'file:///towed-vehicles.csv' using PigStorage(',');

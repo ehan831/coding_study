@@ -11,3 +11,17 @@
     with open("a.txt","w") as f:
         f.write("테스트 내용")
 """
+from urllib import request
+
+url = 'https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png'
+imgName = './data/google.png'
+
+
+# 1. 웹에서 열기
+site = request.urlopen(url)
+img = site.read()
+
+
+# 2. 파일 저장
+with open(imgName, 'wb') as f:
+    f.write(img)

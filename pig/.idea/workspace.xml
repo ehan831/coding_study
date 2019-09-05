@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58d5eb4f-cdb4-4f49-8d8a-3f07c2b9f55a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../WebUI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebUI/web/3_bootstrap_class/Ex04_grid_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/web/3_bootstrap_class/Ex04_grid_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebUI/web/3_bootstrap_class/Ex05_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/web/3_bootstrap_class/Ex05_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebUI/web/3_bootstrap_class/Ex05_formSample.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/web/3_bootstrap_class/Ex05_formSample.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebUI/web/3_bootstrap_class/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../WebUI/web/3_bootstrap_class/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/Servers/Tomcat v9.0 Server at localhost-config/server.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eclipse/Servers/Tomcat v9.0 Server at localhost-config/server.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/Servers/.settings/org.eclipse.wst.server.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../spingsts/Servers/.settings/org.eclipse.wst.server.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/Servers/Tomcat v9.0 Server at localhost-config/server.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spingsts/Servers/Tomcat v9.0 Server at localhost-config/server.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/Servers/Tomcat v9.0 Server at localhost.server" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/.settings/org.eclipse.wst.common.component" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/.settings/org.eclipse.wst.validation.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/.settings/org.springframework.ide.eclipse.beans.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/.settings/org.springframework.ide.eclipse.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/.springBeans" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/java/com/javassem/basic/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/java/com/javassem/controller/MemberController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/java/com/javassem/dao/MemberDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/java/com/javassem/dao/MemberDAOImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/java/com/javassem/domain/MemberVO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/java/com/javassem/service/MemberService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/java/com/javassem/service/MemberServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/java/mappers/MemberMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/java/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/resources/log4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/WEB-INF/spring/root-context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/WEB-INF/spring/servlet-context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/WEB-INF/views/home.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/WEB-INF/views/user/Main.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/WEB-INF/views/user/logOut.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/WEB-INF/views/user/login_ok.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/WEB-INF/views/user/memberInfo.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/WEB-INF/views/user/userJoin.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/WEB-INF/views/user/userJoin_ok.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/WEB-INF/views/user/userLogin.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/resources/js/board.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/resources/js/jquery-1.7.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/resources/js/js_userinput.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/resources/style/styleAll.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/resources/style/stylecss.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/test/resources/log4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/target/classes/com/javassem/basic/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/target/classes/com/javassem/controller/MemberController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/target/classes/com/javassem/dao/MemberDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/target/classes/com/javassem/dao/MemberDAOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/target/classes/com/javassem/domain/MemberVO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/target/classes/com/javassem/service/MemberService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/target/classes/com/javassem/service/MemberServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/target/classes/log4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/target/classes/mappers/MemberMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/target/classes/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/target/m2e-wtp/web-resources/META-INF/maven/com.javassem/basic/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/target/m2e-wtp/web-resources/META-INF/maven/com.javassem/basic/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/target/test-classes/log4j.xml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Downloads/chicago-towed-vehicles/towed-vehicles.csv" />
+        <option value="$PROJECT_DIR$/test.pig" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="971" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="pig" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/git/coding_study/pig" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58d5eb4f-cdb4-4f49-8d8a-3f07c2b9f55a" name="Default Changelist" comment="" />
+      <created>1565588637596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565588637596</updated>
+      <workItem from="1565588640289" duration="698000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="698000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="971" extended-state="0" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="JSON Viewer" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Downloads/chicago-towed-vehicles/towed-vehicles.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="82" selection-start-line="34" selection-start-column="82" selection-end-line="34" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/towed-vehicles.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.pig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="61" selection-start-column="61" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

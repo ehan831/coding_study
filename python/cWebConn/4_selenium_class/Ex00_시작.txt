@@ -1,4 +1,4 @@
-
+일
 
 1. selenium
     - 주로 웹앱을 테스트하는데 이용하는 프레임워크
@@ -21,7 +21,7 @@
 2. 크롬 웹드라이버 ( Chrome WebDriver )
 
     [다운로드] http://chromedriver.chromium.org/downloads
-        chromedirver_win32.zip 파일 다운로드 받고 압축풀기
+        chromedirver_win32.zip 파 다운로드 받고 압축풀기
         2019.07.24 - ChromeDriver 75.0.3770.140  ( 반드시 이 버전만 되었다 )
 
 

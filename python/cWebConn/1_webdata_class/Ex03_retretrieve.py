@@ -1,4 +1,3 @@
-
 # 크롬에서 구글이미지 > 오른마우스 > 이미지 주소 복사 >
 # 구글 이미지 : https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png
 # 다음 이미지 : https://t1.daumcdn.net/daumtop_chanel/op/20170315064553027.png
@@ -11,4 +10,22 @@
         [예] request 모듈 : 웹 요청을 보내고 받는 기능을 하는 모듈
                 - urlretrieve() 함수를 이용하여 이미지를 다운로드 받아 파일로 저장한다.
 """
+# from urllib import request
 
+url = 'https://t1.daumcdn.net/daumtop_chanel/op/20170315064553027.png'
+imgName = './data/daum.png'
+
+# request.urlretrieve(url, imgName)
+
+
+# 1
+import urllib
+urllib.urlretrieve(url, imgName)
+
+# 2
+# import urllib.request
+# request.urlretrieve(url, imgName)
+
+# 3
+# import urllib.request as req
+# req.urlretrieve(url, imgName)

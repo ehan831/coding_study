@@ -6,7 +6,71 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa06cf95-0380-4401-af7b-6aa7c8b04107" name="Default Changelist" comment="" />
+    <list default="true" id="fa06cf95-0380-4401-af7b-6aa7c8b04107" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/3_bootstrap_class/Ex04_grid_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/3_bootstrap_class/Ex04_grid_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/3_bootstrap_class/Ex05_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/3_bootstrap_class/Ex05_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/3_bootstrap_class/Ex05_formSample.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/3_bootstrap_class/Ex05_formSample.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/3_bootstrap_class/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/3_bootstrap_class/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eclipse/Servers/Tomcat v9.0 Server at localhost-config/server.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eclipse/Servers/Tomcat v9.0 Server at localhost-config/server.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/Servers/.settings/org.eclipse.wst.server.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../spingsts/Servers/.settings/org.eclipse.wst.server.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/Servers/Tomcat v9.0 Server at localhost-config/server.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spingsts/Servers/Tomcat v9.0 Server at localhost-config/server.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/Servers/Tomcat v9.0 Server at localhost.server" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/.settings/org.eclipse.wst.common.component" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/.settings/org.eclipse.wst.validation.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/.settings/org.springframework.ide.eclipse.beans.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/.settings/org.springframework.ide.eclipse.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/.springBeans" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/java/com/javassem/basic/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/java/com/javassem/controller/MemberController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/java/com/javassem/dao/MemberDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/java/com/javassem/dao/MemberDAOImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/java/com/javassem/domain/MemberVO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/java/com/javassem/service/MemberService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/java/com/javassem/service/MemberServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/java/mappers/MemberMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/java/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/resources/log4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/WEB-INF/spring/root-context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/WEB-INF/spring/servlet-context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/WEB-INF/views/home.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/WEB-INF/views/user/Main.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/WEB-INF/views/user/logOut.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/WEB-INF/views/user/login_ok.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/WEB-INF/views/user/memberInfo.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/WEB-INF/views/user/userJoin.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/WEB-INF/views/user/userJoin_ok.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/WEB-INF/views/user/userLogin.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/resources/js/board.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/resources/js/jquery-1.7.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/resources/js/js_userinput.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/resources/style/styleAll.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/main/webapp/resources/style/stylecss.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/src/test/resources/log4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/target/classes/com/javassem/basic/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/target/classes/com/javassem/controller/MemberController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/target/classes/com/javassem/dao/MemberDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/target/classes/com/javassem/dao/MemberDAOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/target/classes/com/javassem/domain/MemberVO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/target/classes/com/javassem/service/MemberService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/target/classes/com/javassem/service/MemberServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/target/classes/log4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/target/classes/mappers/MemberMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/target/classes/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/target/m2e-wtp/web-resources/META-INF/maven/com.javassem/basic/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/target/m2e-wtp/web-resources/META-INF/maven/com.javassem/basic/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spingsts/basic/target/test-classes/log4j.xml" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,49 +86,68 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/1_html5_class/01_html5_section.html">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex00_sample.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex07_components.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex01_start.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="84" selection-start-line="22" selection-start-column="84" selection-end-line="22" selection-end-column="84" />
+            <state relative-caret-position="357">
+              <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex02_button.html">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="850">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex03_table.html">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex04_grid_1.html">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex04_grid_2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex05_form.html">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex08_dropdown.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/5_jquery_class/1_css_event_2/jquery_test.html">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex05_formSample.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="147" column="17" lean-forward="true" selection-start-line="147" selection-start-column="17" selection-end-line="147" selection-end-column="17" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -108,10 +191,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../jsp/web/6_ajax_class/05_jquery_ajax_ex/DataSelect.jsp" />
-        <option value="$PROJECT_DIR$/../jsp/web/01_basic_class/5_session/02_cart/Cart.jsp" />
-        <option value="$PROJECT_DIR$/../jsp/web/6_ajax_class/05_jquery_ajax_ex/InputCustomer.jsp" />
-        <option value="$PROJECT_DIR$/../jsp/src/guest/model/MessageException.java" />
         <option value="$PROJECT_DIR$/../jsp/src/guest/service/ListMessageService.java" />
         <option value="$PROJECT_DIR$/../jsp/src/guest/model/MessageDao.java" />
         <option value="$PROJECT_DIR$/../jsp/web/6_ajax_class/06_jquery_ajax_proxy/jsp/proxy_naver.jsp" />
@@ -159,6 +238,10 @@
         <option value="$PROJECT_DIR$/../jsp/web/06_el_class/4_jstl/3_QuizNumberEL.jsp" />
         <option value="$PROJECT_DIR$/../jsp/src/test" />
         <option value="$PROJECT_DIR$/../jsp/src/mvc/guest/control/GuestControl.java" />
+        <option value="$PROJECT_DIR$/web/3_bootstrap_class/Ex04_grid_1.html" />
+        <option value="$PROJECT_DIR$/web/3_bootstrap_class/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/web/3_bootstrap_class/Ex05_form.html" />
+        <option value="$PROJECT_DIR$/web/3_bootstrap_class/Ex05_formSample.html" />
       </list>
     </option>
   </component>
@@ -183,9 +266,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="971" />
+    <option name="x" value="210" />
+    <option name="y" value="144" />
+    <option name="width" value="1260" />
+    <option name="height" value="729" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -195,104 +279,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="WebUI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebUI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebUI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mvc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebUI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mvc" type="462c0819:PsiDirectoryNode" />
-              <item name="guest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebUI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mvc" type="462c0819:PsiDirectoryNode" />
-              <item name="guest" type="462c0819:PsiDirectoryNode" />
-              <item name="control" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebUI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsp" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebUI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsp" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="05_mvc_class" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebUI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsp" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="05_mvc_class" type="462c0819:PsiDirectoryNode" />
-              <item name="1_mvcSimple" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebUI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsp" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="05_mvc_class" type="462c0819:PsiDirectoryNode" />
-              <item name="2_mvcGuest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebUI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsp" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebUI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsp" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebUI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsp" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebUI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsp" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
-              <item name="Resource Bundle 'message'" type="a6c14932:ResourceBundleNode" />
-            </path>
-            <path>
-              <item name="WebUI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsp" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebUI" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebUI" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -304,13 +297,26 @@
               <item name="WebUI" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebUI" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="3_bootstrap_class" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebUI" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="3_bootstrap_class" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebUI" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="3_bootstrap_class" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -481,11 +487,15 @@
       <workItem from="1561349571342" duration="26264000" />
       <workItem from="1561595994088" duration="17051000" />
       <workItem from="1562661229707" duration="1231000" />
+      <workItem from="1564631310825" duration="1091000" />
+      <workItem from="1564651049540" duration="1624000" />
+      <workItem from="1564706553903" duration="639000" />
+      <workItem from="1564809912531" duration="3000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="310754000" />
+    <option name="totallyTimeSpent" value="314111000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -497,9 +507,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="971" extended-state="6" />
+    <frame x="210" y="144" width="1260" height="729" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.9220564" visible="true" weight="0.19583334" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.9220564" visible="true" weight="0.1952381" />
       <window_info id="Structure" order="1" sideWeight="0.37691003" side_tool="true" weight="0.17277168" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -607,12 +618,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../jsp/web/05_mvc_class/2_mvcGuest/imgs/image.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jsp/web/05_mvc_class/2_mvcGuest/개념.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../jsp/src/mvc/guest/model/Message.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -871,24 +876,6 @@
     <entry file="file://$PROJECT_DIR$/../jsp/web/06_el_class/2_member/MemberForm.jsp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex02_button.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex03_table.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex04_grid_1.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex05_form.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex08_dropdown.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/1_css_event_2/jquery_test.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/custom/starter-template.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -896,34 +883,86 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/css/bootstrap.min.css">
+    <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex07_components.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6460">
-          <caret line="4" column="53167" selection-start-line="4" selection-start-column="53167" selection-end-line="4" selection-end-column="53167" />
+        <state relative-caret-position="306">
+          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex01_start.html">
+    <entry file="file://$PROJECT_DIR$/web/1_html5_class/01_html5_section.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        <state relative-caret-position="612">
+          <caret line="36" column="11" lean-forward="true" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex08_dropdown.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/5_jquery_class/1_css_event_2/jquery_test.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="2329" column="5" lean-forward="true" selection-start-line="2329" selection-start-column="5" selection-end-line="2329" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex04_grid_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex00_sample.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="45" column="12" lean-forward="true" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
+        <state relative-caret-position="595">
+          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/1_html5_class/01_html5_section.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex07_components.html">
+    <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex01_start.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="84" selection-start-line="22" selection-start-column="84" selection-end-line="22" selection-end-column="84" />
+        <state relative-caret-position="357">
+          <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex02_button.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex03_table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex04_grid_2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex05_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/3_bootstrap_class/Ex05_formSample.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="147" column="17" lean-forward="true" selection-start-line="147" selection-start-column="17" selection-end-line="147" selection-end-column="17" />
         </state>
       </provider>
     </entry>
